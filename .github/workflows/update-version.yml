@@ -1,0 +1,73 @@
+name: Update Version
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-version:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '20'
+
+      - name: Install jq
+        run: |
+          sudo apt-get install -y jq
+
+      - name: Calculate file hashes and update version.json
+        id: update-version-json
+        run: |
+          current_version=$(jq -r '.version' version.json)
+          IFS='.' read -r -a version_parts <<< "$current_version"
+          version_parts[2]=$((version_parts[2] + 1))
+          new_version="${version_parts[0]}.${version_parts[1]}.${version_parts[2]}"
+          
+          # Create a temporary JSON object to hold file information
+          echo '{"version": "'$new_version'", "patch": []}' > version.json
+
+          # Iterate over directories and files to build the new version.json structure
+          find patch -type d | while read -r dir; do
+            dir_path=$(echo "$dir" | sed 's/^patch\///')
+            if [[ "$dir_path" != "" && "$dir_path" != "patch" ]]; then
+              jq --arg folder "$dir_path" '.patch += [{"folder": $folder, "files": []}]' version.json > temp_version.json
+              mv temp_version.json version.json
+            fi
+
+            find "$dir" -maxdepth 1 -type f ! -name 'version.json' | while read -r file; do
+              hash=$(sha256sum "$file" | awk '{ print $1 }')
+              file_size=$(stat -c%s "$file")
+              file_path=$(echo "$file" | sed 's/^patch\/'"$dir_path"'\///')
+              jq --arg folder "$dir_path" --arg file "$file_path" --arg hash "$hash" --argjson size "$file_size" \
+                '(.patch[] | select(.folder == $folder) | .files) += [{"file": $file, "hash": $hash, "size": $size}]' version.json > temp_version.json
+              mv temp_version.json version.json
+            done
+          done
+
+          # Handle root level files
+          find patch -maxdepth 1 -type f ! -name 'version.json' | while read -r file; do
+            hash=$(sha256sum "$file" | awk '{ print $1 }')
+            file_size=$(stat -c%s "$file")
+            file_path=$(echo "$file" | sed 's/^patch\///')
+            jq --arg file "$file_path" --arg hash "$hash" --argjson size "$file_size" \
+              '(.patch[] | select(.folder == ".") | .files) += [{"file": $file, "hash": $hash, "size": $size}]' version.json > temp_version.json
+            mv temp_version.json version.json
+          done
+
+          echo "New version: $new_version"
+          echo "::set-output name=new_version::$new_version"
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "L2Raz Patch Updater"
+          git config --global user.email "patch@l2raz.com"
+          git add version.json
+          git commit -m "Patch update version to ${{ steps.update-version-json.outputs.new_version }}"
+          git push
