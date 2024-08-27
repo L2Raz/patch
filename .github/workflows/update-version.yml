@@ -18,9 +18,9 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install jq
+      - name: Install jq and b2sum
         run: |
-          sudo apt-get install -y jq
+          sudo apt-get install -y jq coreutils
 
       - name: Calculate file hashes and update version.json
         id: update-version-json
@@ -42,7 +42,7 @@ jobs:
             fi
 
             find "$dir" -maxdepth 1 -type f ! -name 'version.json' | while read -r file; do
-              hash=$(sha256sum "$file" | awk '{ print $1 }')
+              hash=$(b2sum "$file" | awk '{ print $1 }')
               file_size=$(stat -c%s "$file")
               file_path=$(echo "$file" | sed 's/^patch\/'"$dir_path"'\///')
               jq --arg folder "$dir_path" --arg file "$file_path" --arg hash "$hash" --argjson size "$file_size" \
@@ -53,7 +53,7 @@ jobs:
 
           # Handle root level files
           find patch -maxdepth 1 -type f ! -name 'version.json' | while read -r file; do
-            hash=$(sha256sum "$file" | awk '{ print $1 }')
+            hash=$(b2sum "$file" | awk '{ print $1 }')
             file_size=$(stat -c%s "$file")
             file_path=$(echo "$file" | sed 's/^patch\///')
             jq --arg file "$file_path" --arg hash "$hash" --argjson size "$file_size" \
