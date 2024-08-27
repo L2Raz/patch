@@ -1,788 +1,788 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "patch": [
     {
       "folder": "systemEdelvez",
       "files": [
         {
-          "file": "env.int",
-          "hash": "638b09916ef401fe9b5eae0e8f6972768bf36b2e63d9fa608bbe15864608d70f",
-          "size": 6710
-        },
-        {
-          "file": "Core.dll",
-          "hash": "39a53774af7548d87459aa702df0824b4521aba239104f09c4eae96fee78abd3",
-          "size": 958424
-        },
-        {
-          "file": "WindowsInfo.ini",
-          "hash": "35ebeb0a5614c90085a9fc99cc9dc941cf23549f0527fc931a58d77570de2b10",
-          "size": 1954
-        },
-        {
-          "file": "musicinfo.dat",
-          "hash": "74e16e46df68b5e2b1d142d64774c43845c5a2d91c913fc108527ab46b2fc9e0",
-          "size": 5424
-        },
-        {
-          "file": "shortcutalias.dat",
-          "hash": "8919c5616087861f61ec72c11b72641c158ab574208f9a54a26e654c8d702126",
-          "size": 2096
-        },
-        {
-          "file": "entereventgrp.dat",
-          "hash": "a029c62ae244fc73827c4e24a4384ff8bcb2700f775c0053099bfaff80958d08",
-          "size": 6704
-        },
-        {
-          "file": "nwindow.dll",
-          "hash": "891cc62e34dcaa4b71c1eeb68a0573ec8bb2ab68ea74eff0f29672eb1ff33088",
-          "size": 14199828
-        },
-        {
-          "file": "timeenv1.int",
-          "hash": "4bfad091ae2e938b8b240f8ad0cd6a23600d495a1503ba25ae9e2f20d82145e3",
-          "size": 26359
-        },
-        {
-          "file": "SystemMsg-e.dat",
-          "hash": "9c560a9deadb3a05bb81c0df93c66fc24c5a2dca165fbee533bd79c25a705537",
-          "size": 81200
-        },
-        {
-          "file": "chargrp.dat",
-          "hash": "1598335f5fb1c6875aa2dc90a22fdd272f2895d00f018b46314985bbe41d647f",
-          "size": 6064
-        },
-        {
-          "file": "lineagemonster3.int",
-          "hash": "906e74776071e2a1bee9aa18e62dff2821ab77f5c0ede4b1dc36ebd02c7ae422",
-          "size": 87459
-        },
-        {
-          "file": "gameplay.u",
-          "hash": "4b88789ff799bf7c8230bfce05b2475ebf5543f00062fce8cc032b96b4188ba6",
-          "size": 207796
-        },
-        {
-          "file": "editor.u",
-          "hash": "b841123a383354e5ff1c5a6bdd1407dc51b44f9a1c41a3368c3c64488e7ae60d",
-          "size": 587535
-        },
-        {
-          "file": "ipdrv.dll",
-          "hash": "92593b712ca97c20ec3d5053b22fbaa055acd733d4d8e7652f71c13c211137e1",
-          "size": 303124
-        },
-        {
-          "file": "msxml4r.dll",
-          "hash": "b9d07b33cae92176bd0f31a5aaf8bea5b6362fdc59e6a43b82f8b43db9f6cca9",
-          "size": 82452
-        },
-        {
-          "file": "uwindow.u",
-          "hash": "fe6ccce44bd6889152efc07ecbf70090efa5bf05f0b55fe63332340d3382d662",
-          "size": 653179
-        },
-        {
-          "file": "NpcName-e.dat",
-          "hash": "3c50fc2fa26112a5aa9b5770159ff561e97994b163936f2a9eab263a07d1cd9b",
-          "size": 81072
-        },
-        {
-          "file": "lineagemonster.int",
-          "hash": "7a5e1c0f539522f81e23a05f538f0b3175f468917421970ce714913f6499d957",
-          "size": 611758
-        },
-        {
-          "file": "additionalitemgrp.dat",
-          "hash": "04157a394762113d03e4886f832244e647d181666a21972bc62a7235ea43ce58",
-          "size": 47408
-        },
-        {
-          "file": "eula-e.dat",
-          "hash": "ec3d7152a0fe1e563c31cff1ad842b8e2fe1c1a77a077ca9f9c4b18edfb4866c",
-          "size": 13744
-        },
-        {
-          "file": "lineagemonster2.u",
-          "hash": "44ab0d6b7b3bc7cc487ab3ddb5906040009473ea0c07a066ad537ecfc9c9544c",
-          "size": 180861
-        },
-        {
-          "file": "charcreategrp.dat",
-          "hash": "6029ce524e5eae8641ac71947b0ff5e91c388a0e3ef0d3d71be21c8b4f1012b1",
-          "size": 560
-        },
-        {
-          "file": "timeenv0.int",
-          "hash": "520f286a5b55af7b08eb9eb26df5c2d1c27fdfc96e9f33f60a19a44bba9e965a",
-          "size": 25208
-        },
-        {
-          "file": "npkcusb.sys",
-          "hash": "7c4aed917ce3b2ac21e233a37db2b70aa1fe8d7f1508428a5a213258d634e179",
-          "size": 15472
-        },
-        {
-          "file": "lineagenpc2.int",
-          "hash": "76bf0450a46bc16d652d44ae33775e895ed3d7d64989459de1d67c708581ea15",
-          "size": 148140
-        },
-        {
-          "file": "NpcString-e.dat",
-          "hash": "942e6fca4396821a3b45e9356cab77aa9efba0eca4bb9b34a5d50fbd786d742d",
-          "size": 106288
-        },
-        {
-          "file": "alaudio.dll",
-          "hash": "059820ca892d239d6146101bf2a460340fb9b9c7b3b6d5092f26a820e8d0d8f6",
-          "size": 150548
-        },
-        {
-          "file": "lineagemonster6.u",
-          "hash": "42fb3d3b776dfaeba1c308651271556cc4288bbee3ecdfef54339c7be4a767cc",
-          "size": 5513
-        },
-        {
-          "file": "lineageeffect.u",
-          "hash": "71a99e0579771ba690ee1195401d13f15d3d39717140d0472887c73e56311e5b",
-          "size": 6841237
-        },
-        {
-          "file": "Lineage2us.ini",
-          "hash": "77b0d4b111704c1f3439c3681ed47f6de51e5cc4fcbeb74d84ac03cc8e97db57",
-          "size": 557
-        },
-        {
-          "file": "wform.bm",
-          "hash": "c52f1782a62f0c5c107c9d6c76218536110aca674ad30c3498f6c19faf9bcf0a",
-          "size": 527005
-        },
-        {
-          "file": "npkpdb.dll",
-          "hash": "4d6195979286e35706769fd4420f14e947e489711d4ffca8c1124c5d8d1da4dd",
-          "size": 53268
-        },
-        {
-          "file": "exceptionminimapdata.dat",
-          "hash": "1ed30acdf6a2333895589e2fb73edcd70b5f5c7d1e8b2d76d644101f38f1432a",
-          "size": 816
-        },
-        {
-          "file": "smallfont.gly",
-          "hash": "ee91bfbde62c44b32a30d314a372f35e45c309d3b7c3982da5ac9d63a66d883b",
-          "size": 181800
-        },
-        {
-          "file": "Microsoft.VC80.OpenMP.manifest",
-          "hash": "c26121c6e5d31113a91cd77ee48c7f077b6f6411e31a0370387233bc41ab8f53",
-          "size": 464
-        },
-        {
-          "file": "lineagemonster4.int",
-          "hash": "43e31b1e53408e8ee56945708d7a0955b538d7df5e3bd9cc07120af4e0b2ef40",
-          "size": 201664
-        },
-        {
-          "file": "armorgrp.dat",
-          "hash": "656f633a2ff63591fb3834f40882ab3eeda6e652e437532d6452e3d86116193c",
-          "size": 419760
-        },
-        {
-          "file": "mantleexception.dat",
-          "hash": "f967f6e809dbfdc466597bdb1a6a21408ba9876de796cd56b779181d139e5761",
-          "size": 1072
-        },
-        {
-          "file": "sysstring-e.dat",
-          "hash": "e654908868c301751758936d928837987239f06bf6a799c510011640c6de1806",
-          "size": 22064
-        },
-        {
-          "file": "vorbis.dll",
-          "hash": "5548137178bc2276043f525d4115b4f433bf89437952f352203cd5a58fabe820",
-          "size": 249876
-        },
-        {
-          "file": "l2.int",
-          "hash": "99538fd2c4f86ee951d76154425c457a7aad3d993a490dfcb82c7c713e42357f",
-          "size": 176
-        },
-        {
-          "file": "L2CompiledShader.bin",
-          "hash": "2e691d84077b34cef8ef72fa4a4f6fdc4f3709b68f6993e854e99597b0353437",
-          "size": 111190
-        },
-        {
-          "file": "productname-e.dat",
-          "hash": "61dba9f8ffe134af38c768fd0a6581728281e88c87b836c75d85c3750406dc6a",
-          "size": 15152
-        },
-        {
-          "file": "interface.u",
-          "hash": "3a3132fc6da57c399caf4918aff214e31c36ce297bf32de5ed7d21519e477d1f",
-          "size": 4706060
-        },
-        {
-          "file": "window.dll",
-          "hash": "ef0a9bf120cd8fe600b2572d3c9e5648a411c4c6975747ee4821155a618758d1",
-          "size": 508948
-        },
-        {
-          "file": "servername-e.dat",
-          "hash": "f097f91cc1da180baa254c48b3b36848ed38042fc057cf6a0fc39f22e098f711",
-          "size": 1072
-        },
-        {
-          "file": "lineagemonster.u",
-          "hash": "e0a446d6536b43ffae9f9141b87ad197c441d92dcccc929777b752ca11d35852",
-          "size": 250573
-        },
-        {
-          "file": "nsplash.dll",
-          "hash": "3ba27a6b1ad5d60d0b71d35f3b3851c66bc84cf740e15313a0327892dd7c24fa",
-          "size": 86036
-        },
-        {
-          "file": "ogg.dll",
-          "hash": "732ee0dc9122c14aab0b65818adfe255ea3c35458e5796d5268e7ac773b534e8",
-          "size": 61460
-        },
-        {
-          "file": "windrv.dll",
-          "hash": "1a557cf195fdab1b74c0ac00e6244a0f28580d4d9802b0581aeb3f88d8467fe5",
-          "size": 214548
-        },
-        {
-          "file": "Engine.dll",
-          "hash": "e707ad21014fd925f50b1f0d19dbadc03bb13da9446a9cd011b3640525b0ce54",
-          "size": 8146944
-        },
-        {
-          "file": "lineagemonster6.int",
-          "hash": "d9de2155d6364f08f50aad5fadd3e5c42a04649bbc64e6c949dcb5749ef006ac",
-          "size": 10243
-        },
-        {
-          "file": "interface.xdat",
-          "hash": "13780f8f7ebff13d6c600e80da4a5d0c17a4c2f5c18aec757af9d5644af53217",
-          "size": 1452221
-        },
-        {
-          "file": "ridedata.dat",
-          "hash": "1d6a8cf249ff62c67db954e23fb473c48de93a27092dcb37b0ef1db72e7244f6",
-          "size": 816
-        },
-        {
-          "file": "weapongrp.dat",
-          "hash": "0d5d6c1917eef2c686fcbd971bcae858b3099bf6794a243cab3507f9c80d27ad",
-          "size": 249776
-        },
-        {
-          "file": "staticobject-e.dat",
-          "hash": "81418a1a809052f59bd21f54313f9e95c6a5790b4408829d5b646c0f1ae0dc90",
-          "size": 5680
-        },
-        {
-          "file": "vorbisfile.dll",
-          "hash": "1e05684598d59b89c38ff9e8857bb6956620eaf4ca486b0b1e3796b59fc1655b",
-          "size": 106516
-        },
-        {
-          "file": "variationeffectgrp-e.dat",
-          "hash": "b3d4468ab81316011f80f6aaed03243f0fa87cad68a4eb076741996e46e9943d",
-          "size": 1840
-        },
-        {
-          "file": "lineagecreature.u",
-          "hash": "13368122595058102d1c02d0b635182cd91723250a1f7aa2fae9d2f59264c85d",
-          "size": 13010
-        },
-        {
-          "file": "lineagemonster2.int",
-          "hash": "2189b31db3b0dee2f65c79041fd741ff0f6a92dcef932b7e4fa6600164a66cb8",
-          "size": 224753
-        },
-        {
-          "file": "l2forecf.ffe",
-          "hash": "85d0daa44733bfc97bca3e1b4124c7287b213fd04fc8c321badc9b67e0cac4af",
-          "size": 3516
-        },
-        {
-          "file": "core.int",
-          "hash": "f4ae4b8dd230a085d0a032baa11719b6c765ad7863924d9711583ed9505a0651",
-          "size": 3428
-        },
-        {
-          "file": "nwindow.u",
-          "hash": "f46196cad4d66b228cec71e9e24aabdf224353f00ffcd7496735a9953ec674bc",
-          "size": 527475
-        },
-        {
-          "file": "largefont.gly",
-          "hash": "f6ea168898793c9923b4af54883ac564d09afc5520e6afdc3bb37bce71dfb819",
-          "size": 185632
-        },
-        {
-          "file": "lineagecreature.dll",
-          "hash": "e28d49d1bf8670ce0c7b94c7c6d4a556d5eed52980c1f55128a94953a6c06d89",
-          "size": 116756
-        },
-        {
-          "file": "lineagenpcev.int",
-          "hash": "e3a8f026f7ecdc137014f24dd63677f2cdc8c25e9df58723715e32c68c4bd2f8",
-          "size": 6397
-        },
-        {
-          "file": "classinfo-e.dat",
-          "hash": "e58bf46ff0fdfd1e606a9851016f5cc12edfc925248060db271dffbfbde2e66e",
-          "size": 2352
-        },
-        {
-          "file": "bighead.int",
-          "hash": "2e46a1094e5a098a2ddc1a96de6d599a57099f0e01fee562457d189a163423d4",
-          "size": 1078
-        },
-        {
-          "file": "vehiclepartsgrp.dat",
-          "hash": "a0d8dd73fc7b3324e2fb4516ebdb7435b0dcdfce8bc77b3076b66a793bb14b05",
-          "size": 560
-        },
-        {
-          "file": "skillgrp.dat",
-          "hash": "be3918b0c52ff37ead1d0e6bb49005c1a0c8deade65269b64132ba6776fac1a5",
-          "size": 366640
-        },
-        {
-          "file": "npkcrypt.dll",
-          "hash": "9feea28516f7c2dc1486cc99fa2264f107b31b6336c6ad0454000e1912d243f2",
-          "size": 409700
-        },
-        {
-          "file": "ipdrv.u",
-          "hash": "b9563b6e2c1e4a1be5a8ae1184bb04f67c555625753587f2de58653c885ed099",
-          "size": 73672
-        },
-        {
-          "file": "s_info.ini",
-          "hash": "24799e1543972b91886c394a0c95714197947c577c12731c5c512463a72f33cf",
-          "size": 62
-        },
-        {
-          "file": "instantzonedata-e.dat",
-          "hash": "447d2fca5c90f3141c88595d7330125f7d789ddd5c340fad4f5aecd7c59a9abd",
-          "size": 1328
-        },
-        {
-          "file": "lineagevehicle.u",
-          "hash": "73c3024db3ebb317e57dfc3f089e4f3fff6891a5798373b14a4886410712ea7a",
-          "size": 15487
-        },
-        {
-          "file": "recipe-c.dat",
-          "hash": "4fa8b012d70807e0f12060f8b06d3e1fd73e73a6402c1f4f3d6f6e43620bec4b",
-          "size": 28336
-        },
-        {
-          "file": "lineagewarrior.int",
-          "hash": "e3680a49d4279bc90ffca6b79e22eaba1d01899ceda5333f2fcd74b407622ba9",
-          "size": 356009
-        },
-        {
-          "file": "lineagenpc.u",
-          "hash": "8170781beb2806a48bf237c5a7175e430c51c3b352ae339ebed7b6b4ee51d51c",
-          "size": 128317
-        },
-        {
-          "file": "lineagesceneinfo.u",
-          "hash": "3c65ed4a38d186dfe5e218791ab13e98f58b0f09f2888689444776533bb7c3d6",
-          "size": 121253
-        },
-        {
-          "file": "sceneplayerdata.dat",
-          "hash": "9400bc30b4f8d6a38b2ccbae4763f27ce6c73aa7e63c7e0efc0eb07652d5c340",
-          "size": 816
-        },
-        {
-          "file": "lineagenpcev.u",
-          "hash": "dd7d3bdb61026ea6802f34fd70b2acb932816e13952723698237d1a506681fdb",
-          "size": 276667
-        },
-        {
-          "file": "soulshot.int",
-          "hash": "af12133669de495b2c4ad43f136f52eb75a8800655f08e29b998e7d7fdf07d4d",
-          "size": 1900
-        },
-        {
-          "file": "defopenal32.dll",
-          "hash": "e433deb1edad3c16ef4b622c49ac89eb13f45b6cc022030e0a186fee0025af29",
-          "size": 114708
-        },
-        {
-          "file": "fire.dll",
-          "hash": "4726cbff7443abb482b6c7b53e3820df646ba096aba033d3576944a063da54dc",
-          "size": 163860
-        },
-        {
-          "file": "msxml4.dll",
-          "hash": "8f49c37b4e04a13d15481d9cbca1b82fe1a5a13766df394f5866fad0b6cd5ef6",
-          "size": 1275412
-        },
-        {
-          "file": "udebugmenu.u",
-          "hash": "bdb3249c66a1fbbf0235270520ce148401db547506051e05764df5d8a399b777",
-          "size": 232414
-        },
-        {
-          "file": "goodsicon.dat",
-          "hash": "e1d14c1b492273932f868cd3ef19e7c227c4b05e5e82c2600fac92d9b75c36c6",
-          "size": 176
-        },
-        {
-          "file": "skillsoundsource.dat",
-          "hash": "b03e2cdf13f347dda189dc984cf83fdd1c801c0d7d28cabfff7a8be4fc0952f9",
-          "size": 13488
-        },
-        {
-          "file": "timeenv2.int",
-          "hash": "a7d68b713206c0fd1a71af3fcf06ec2d90b619080d1bf645d6fe66323c137e77",
-          "size": 25196
-        },
-        {
-          "file": "additionaleffect.dat",
-          "hash": "e8dceb3a7fb5a8879d2430104ec61fa6d7b8b98a7a370927675afee93deef087",
-          "size": 304
-        },
-        {
-          "file": "itemname-e.dat",
-          "hash": "417604bd34a5f06c4fd6c4a10f7ec860a8c8e7d992f1fc2788786b69a942dc89",
-          "size": 546096
-        },
-        {
           "file": "lineagedeco.u",
-          "hash": "f746a16798530ba325a80f3ed909478b56fb888724c2b9adb8248b75097060ad",
+          "hash": "3e187dbc5914c8435b3e5c2dcbdf6c3d2cba6930a36084cda35a55bd1de1d378a506f1fa3bcf93eeb045d65849558c8ab71515fc4dfc9a8a34aa6fc527a50b1d",
           "size": 6813
         },
         {
-          "file": "obscene-e.dat",
-          "hash": "c32e793ee0ce2758166634c26f34390ad6c24683fd4f3d74264940dfec20aef4",
+          "file": "engine.int",
+          "hash": "90c741c47b2da960b43dbf369ba730ee5270021d02e5749807f052004b8b92006f29343ad0222738a658554de3ea30fa1d05cf33124e4fde3a0e10c223e5c191",
+          "size": 6915
+        },
+        {
+          "file": "armorgrp.dat",
+          "hash": "d66b79267664926c0f6af44e1a4007145930d1aadb5155c91aaa3e07da884f83ae92ea75f016c7241c0c833396a9af2cd665e59be6e756fde9c08248a3eef962",
+          "size": 419760
+        },
+        {
+          "file": "additionalitemgrp.dat",
+          "hash": "83f23afb5761447ec3b1795970a2fdef4738c9026b1834cc5ca32f706b31b2830c24216d9db8f0602f1262ea339da676a72ac5fb62a8e3c813ef93ae5ebc5a70",
+          "size": 47408
+        },
+        {
+          "file": "msxml4r.dll",
+          "hash": "b20123f0dc22da17ad250c7e339e2e654d569bdce13dd851c76fb7cd6b062d36040222fa2c260cdfb97aa552480dc54efab6750dad49ad3bd7b0d0982834b656",
+          "size": 82452
+        },
+        {
+          "file": "vorbis.dll",
+          "hash": "4d4c5640259ce96efffdc29114a7fd4fad10ebdf72445349630d1d3dcece24ed2592c27f8e99367170b86ba7ae6201f126f56231f11f662f238aa37118eb4c01",
+          "size": 249876
+        },
+        {
+          "file": "l2precompiledshader.bin",
+          "hash": "e5c512483483f095b8bf8412d16d5aba6440dc67e79649d532d1ebe0678fb4050b6d356e93c333bc33088b743567e624ea51e3f854aa7723f22dfa88ec99039e",
+          "size": 45667
+        },
+        {
+          "file": "s_info.ini",
+          "hash": "210c5b739417702958b20aea82e7bc5d1f65138d615d5558c2127086852f193a2ff424fe4f2e6dbb16dbf592cfb73bc8f7029adb647f0c52c8e9a122116ba440",
+          "size": 62
+        },
+        {
+          "file": "windrv.int",
+          "hash": "5f956f83ff28dc1350d13e7041a2074a8914d73778772ea5d6532b2faf7fa1b733959f39b14bc15b4f3948ac776a3c71eca89f6cc94e331730a5ff3062becdbc",
+          "size": 729
+        },
+        {
+          "file": "windrv.dll",
+          "hash": "868771b794b033236514547a36b62784342dec5331248895f00dd495033412da12c11320c4fed6adc530108f76f4c3bcd2a3ac2d74873c325efc99dc491f8c76",
+          "size": 214548
+        },
+        {
+          "file": "entereventgrp.dat",
+          "hash": "957ca8401d9422f30e5c14a4b7e766b447f1c20ffefbf9ad637848d27775321c7bdcb3d06d61f4c253f77a035e180c95a5b710ec3383092f69622b12831b8a9a",
+          "size": 6704
+        },
+        {
+          "file": "symbolname-e.dat",
+          "hash": "90d358399dd3c4772d5ef3c517e3bed4e2a516d2101ab0bdc2c3ca36c51ab93a307665066b33b947abe5a4e0efea49348b4e4714daa5bc44703b752846a7b566",
           "size": 304
         },
         {
+          "file": "lineagenpcev.int",
+          "hash": "3bf89471ab0d4681f646c6089bc83c133232b53f39ddb48ae732fed2ae3a6f6e04173e0a671cefaeb40265a8d3a8771572a6ff96630ecd24709662b85389f19e",
+          "size": 6397
+        },
+        {
+          "file": "hair.int",
+          "hash": "92961ec702b65aeb0299d16ef4a6f3591c5aa2a077ba03a02b6ac74c4d55877a47d01b156460fd5254585bc0c2c13302c7176e38d8a5d278b26d28ae17f87817",
+          "size": 110933
+        },
+        {
+          "file": "smallfont.gly",
+          "hash": "020aabd2b36e66a514408f376eb99e78c02f8b9e617c241d0b6cdd16bf53c79cc6fce1d7a5bf4ecf93450fa03ffbe9a1430125a28168d04845bb406e10729f71",
+          "size": 181800
+        },
+        {
+          "file": "lineagemonster2.u",
+          "hash": "4b24245c467d954ee73e7da03fd6f5dd763dd0fa3f5a4abefbf772cbf146fbb29c13999f247a841c889a94e6c351fdc8c3dc548aa8fbd354674c9441b1485567",
+          "size": 180861
+        },
+        {
+          "file": "huntingzone-e.dat",
+          "hash": "c4f438967d7e870ff5661d844ab11e6f26e55acd9cd9162405af052d91386e8c1b010d0d2c06ef2927f5d2091dfb8dc247218e4c7ec8bf0d68dbbd690fdebcb4",
+          "size": 7088
+        },
+        {
+          "file": "Engine.dll",
+          "hash": "9cc42652b5c787005fed32f8a1d6dc2d5157592c4567f4f75c40d70350a5b215229e8622765a419b4693fb689758efdf1fe490d7a3d6435fff3f25366b04b23b",
+          "size": 8146944
+        },
+        {
+          "file": "vorbisfile.dll",
+          "hash": "03e05f7c8b458fce5c7d92bafd7199e5b2ef8634175364b763ac01c7f0767780e2ceaf4882aba7a3711313ce866da6c08fa1a1ab8a457d82637e0044a3eacad7",
+          "size": 106516
+        },
+        {
+          "file": "npkcrypt.dll",
+          "hash": "1466c3e03eda0ed6c028ebd7b5c7b9410dd5606cf59e93a374ba3fbf5e1bcd95ed240f9d45a90e5fb2d055965ab7d4b23b34b56c28d3e3851d2f7dccdbf8bf7a",
+          "size": 409700
+        },
+        {
+          "file": "lineagemonster3.u",
+          "hash": "01e0a2abac3df113b2a2b04497b83f54e964fd7836ac5cef5c97910bbc4183b386293db240daf2058b80c5bb7108f7f4bd8dc4a9750798a2a18b37b5224f84c9",
+          "size": 156830
+        },
+        {
+          "file": "npkcrypt.sys",
+          "hash": "694c14ceafd38534958f641e7ec0e8961958ec5814081e464b4acb002d4fdb083542ab89ea6e94c7a31ab9aa5e8af216ab6358db5d427a5f5c03412075b7c08f",
+          "size": 23217
+        },
+        {
+          "file": "raiddata-e.dat",
+          "hash": "25e0a67345a218b7546542fc51ba3e670c98044ec3ed11eef60a61a1148527d0b14f5b6b6fcf7f34565a78fba6527756a3763b2540adc67f6801a4d72afde8dc",
+          "size": 34352
+        },
+        {
+          "file": "sceneplayerdata.dat",
+          "hash": "742699ce0ebdb6aecdb2b9d539890126717028a0bed098cb78b81da2a54dc4a86f562fc8fd26d8bb37fb0b22069eac6a4d481a2e411b0e8022f773c9ed1fe535",
+          "size": 816
+        },
+        {
+          "file": "npkcrypt.vxd",
+          "hash": "aa26d9da9c33268e65999043d3412d53716050e2fc11c4d1a2f6ebb5f22d59a8a14264dbb01a1f51cbf4af104be1ed7535d1401f02d800961b26bc466e18a803",
+          "size": 26344
+        },
+        {
+          "file": "udebugmenu.u",
+          "hash": "b5c1b12424f4bf40944ab9850c6d1ffe90f04a29e7f90eef73b223b056a747939703df65da8dbfe7b396174ab7588630e4f0587526d1629287120f7b6264af25",
+          "size": 232414
+        },
+        {
+          "file": "recipe-c.dat",
+          "hash": "6731a7f7a39349b6564248b998c0cea365435ff3fe8856bf9a3e232e56b031c91b7153daf8a519fdecf5dfadb17c2aaf7843a7b4e2e56da758ec5fa2a89eff04",
+          "size": 28336
+        },
+        {
+          "file": "nsplash.dll",
+          "hash": "ab2ffca28470c7d80390a4118e3d8ee727887ba7413e8f3e65f2ff1e9cb6419d11311f151bdfe46afe13178be4df51bcc74e9cb89e49117c714daea2d933b58d",
+          "size": 86036
+        },
+        {
+          "file": "core.int",
+          "hash": "5c37f1855b55b44aeda78c6fa5b084533b23afa47018dd66085d43d46efe18ecdea4eacc9a7a1f712d7a992519c1048fa9c770d7f45ac91cba5df76ef7d16e94",
+          "size": 3428
+        },
+        {
+          "file": "itemname-e.dat",
+          "hash": "a4c7fb2324178eced96d9b7efe449a8d40893adb385bedfd54adb1b846ef2be51be1ed12ecdc265e679f3bbdc4db6f876a66dcb05d642232986142347f832d3b",
+          "size": 546096
+        },
+        {
+          "file": "localization.ini",
+          "hash": "af012788d46835b33555303e231c12ea8d4142d3489d42eafef77e6423d6debf777b7989350db718cb58e156eddefede25c95867518fb6845fa8b6317cc46b93",
+          "size": 5617
+        },
+        {
+          "file": "l2.int",
+          "hash": "9cc30b5bac447f4c1db544e60775f409b44c836c2fed87371a34816dd08e94116dc494798f8881102d5885eeff2e2bfd411cc49faac58fa850c4fcf1bea0c877",
+          "size": 176
+        },
+        {
+          "file": "additionaleffect.dat",
+          "hash": "44ffbbd1f5ae995cf33a62e81d52c664bae23f31197c220f37239bfc922d920ec0faf3d20afa561dbeeeb688114288f4943ca1ab5d7bcad96b293ea7377fce78",
+          "size": 304
+        },
+        {
+          "file": "creditgrp-e.dat",
+          "hash": "24c669bfea5f6d86d29466a70f7335414a92317dd5c890ae9e08e2137d5698707639d01d5a0344a59802b5c49ce21156c86456791be56c9682feec06358b5e5a",
+          "size": 944
+        },
+        {
+          "file": "lineagecreature.u",
+          "hash": "46e46cb803c31c3018218b04a5371ae6bf6c7c8404e748399f88e18f2b3c1e7ef66915e145df69fae8f4d568ca289a3e0bcfe5124a4bb416fba8390cc92ab6c7",
+          "size": 13010
+        },
+        {
+          "file": "lineagenpc.u",
+          "hash": "c65eecb86f94fa6bdb717e347d9614dbfb06e71a05a29fe179e24b1acf1696b685285babe3f4863088eaa853db474ab7f71be6bd877fcee0c87172170c2e52b9",
+          "size": 128317
+        },
+        {
           "file": "l2.ini",
-          "hash": "11ce91905b7984c0af42dc0805f9f31fb1eac8f78f37a27030d0f60bc86b41cf",
+          "hash": "ec6e126d0517133dc990fe18e470489dc8e80d7e5f9f4a6cc2e50d96ce9a36288d0b98609fd3430bd7682e60a0079e4322e2deae5b81f5aaa06aabaffbf4dafc",
           "size": 4144
         },
         {
           "file": "d3ddrv.int",
-          "hash": "f1be03577498513fd73e6f227686c0b27fd73b55d203453bc3c579fc957e1c52",
+          "hash": "1cd32dcd8200d102e99bfb0a41244f00acf1725a2a6bea3441f4210d7bb663d6b9ecf3969ebe02cd2a4512f031b9639cca6d38dc31166ca86bbf995df4f30e5f",
           "size": 422
         },
         {
-          "file": "fire.u",
-          "hash": "36eed86fda11bc76b6ac5d15ec9c232e92e5f53bc9b21f38ae2fd0ffef9441a4",
-          "size": 15482
+          "file": "lineagemonster4.int",
+          "hash": "5af83da8dd195df272c19760aa146de6fa114d1b452ea2a136bd26f3a4896f538b447c032b0f42a250932d76605017ba7189ee98c3c4217cef7eb4edc70ba308",
+          "size": 201664
         },
         {
-          "file": "npkcrypt.sys",
-          "hash": "f556d97050aa9d4573bca01316a1a84b70668694ef759c2576b5af4013870a00",
-          "size": 23217
+          "file": "lineagemonster.u",
+          "hash": "8ddb76f416d1cce581b30cdd8040e2078a030ab82a67c73deadadafa62db489c078390934e4dc0813dc1d43839082996a9d91d420d4e27cce8726237f2403699",
+          "size": 250573
         },
         {
-          "file": "lineageskilleffect.u",
-          "hash": "245f4784b8f619abd720a77d36d0d687b23eeeba15f7d4ceec5f1adb65217005",
-          "size": 582788
+          "file": "lineagemonster3.int",
+          "hash": "3872176b0e6a87bb7f3bf665642196d186ecfe34714b5ee440334c38abad4ebd39bbeb6785068ef85c568bf9638aefb20388c07db4720517cfe6dfc98d8fedbd",
+          "size": 87459
         },
         {
-          "file": "optiondata_client-e.dat",
-          "hash": "6668acd9c8c8230d7db80dbb7a516e35ee29a780b2c8a45b0d38e3c60a0a110f",
-          "size": 168624
-        },
-        {
-          "file": "mobskillanimgrp.dat",
-          "hash": "d94bcb1043fcf7a558c723481e72a23baac05d70cc8d9a7d1e535eb7d016f834",
-          "size": 123056
-        },
-        {
-          "file": "creditgrp-e.dat",
-          "hash": "79dbacc77bcc8fcede10e3f38c3151e088ae5b313d10ece86476be674fc151d3",
-          "size": 944
-        },
-        {
-          "file": "SkillName-e.dat",
-          "hash": "a8572e9db0dbf7df7f7564b5613c3fe2a9be989cbe6eab8741e785451eb293be",
-          "size": 740912
-        },
-        {
-          "file": "localization.ini",
-          "hash": "661cce40d6557878d6c3da7b5a5dde279ebc0ee1a570b5b81a48318275f3482c",
-          "size": 5617
-        },
-        {
-          "file": "d3ddrv.dll",
-          "hash": "3b6ec91f3ac09aeb3f2d6ebeae8987d6713179b6acc9e09ede673daf2512475c",
-          "size": 1426964
-        },
-        {
-          "file": "beecrypt.dll",
-          "hash": "4d66674cdda755992e0b236636485a8ecee7224243734aac416039c265359729",
-          "size": 188436
-        },
-        {
-          "file": "wrap_oal.dll",
-          "hash": "7bce7f6198bc90e0ec24e0455f7407069364113f1d2cc339e22932ec0ace7b83",
-          "size": 409620
-        },
-        {
-          "file": "window.int",
-          "hash": "fb33125c73d7258e7aab9be5f06961ebf907a694eb5f74c2a2c1d166ff1b7243",
-          "size": 2337
-        },
-        {
-          "file": "gametip-e.dat",
-          "hash": "0c61616ef83eb4a9135eba276be68043fb76febae7b66b8b61c1a3f195dcbb8c",
-          "size": 17712
-        },
-        {
-          "file": "npkcrypt.vxd",
-          "hash": "444e724ae455d337ed25f9b143b998092773904b145f125c9488856c2d7843f5",
-          "size": 26344
-        },
-        {
-          "file": "ipdrv.int",
-          "hash": "3100cd32af272ba43a0046e235da5970bbf502eff7c0fab1dae10f501875cd66",
-          "size": 1840
-        },
-        {
-          "file": "questname-e.dat",
-          "hash": "3fa6f7393f46e2f273828c447647b55b3670d4529aaa5cc3c08cc326e31e3372",
-          "size": 291632
-        },
-        {
-          "file": "vcomp.dll",
-          "hash": "2942acc51829c5fce173a6d5ea89ba8b86773ad6dfe944b8548258a7c9dd05d1",
-          "size": 65556
-        },
-        {
-          "file": "chatfilter.ini",
-          "hash": "57a5a44581ee9ac002ba22b7d5b788f57292487fdb237159ab516f496d6494ef",
-          "size": 1076
-        },
-        {
-          "file": "npcgrp.dat",
-          "hash": "795ca1468b10b9bd857f61a9c1912f7cfa335b7c7463ff7e3fc6e66f6e4a38e4",
-          "size": 414256
-        },
-        {
-          "file": "predefinedshader.bin",
-          "hash": "84d15f09d17ab52127fb09ac16ea8415eaeb1e0205657d488c53868ded83de3e",
-          "size": 68625
-        },
-        {
-          "file": "castlename-e.dat",
-          "hash": "3f8eaa175272d8e65570dcd89489fdd8c084dea23db2c49225494e8e3df6b5c5",
-          "size": 1968
-        },
-        {
-          "file": "commandname-e.dat",
-          "hash": "8a4e7f11a4d6aae4461779bf55cfaf386d286cdc488ef485b05f5d29333b07a5",
-          "size": 1584
-        },
-        {
-          "file": "lineagemonster5.u",
-          "hash": "43d7ad368fde33f453a29bc8de88dc0ea06a4f7c40f1daff414c96ef2e85b538",
-          "size": 137581
-        },
-        {
-          "file": "smallfont-e.gly",
-          "hash": "94dd0f8c9055c7ea7e57e0c1c01cd5f61479492d4f9041e7c6eedc36012ea300",
-          "size": 181800
-        },
-        {
-          "file": "msxml4a.dll",
-          "hash": "51e38d41a2bc89e65896a48e348ad35d4b12348a665197cadc95fc87fa4a9564",
-          "size": 44564
-        },
-        {
-          "file": "lineagenpc.int",
-          "hash": "297b0a114e07df05e282d9579c9709a727416ff87f34885c51af6af8ac7c6fea",
-          "size": 125536
-        },
-        {
-          "file": "largefont-e.gly",
-          "hash": "42419af2a4995db6f6abc697799d1051f2c8ef60d45888df6d336d55e526c6bf",
-          "size": 181800
-        },
-        {
-          "file": "l2precompiledshader.bin",
-          "hash": "dfccdfd00e991f2d312109d2c38b5a984f37e03662116ef581bac603c1ddcbdb",
-          "size": 45667
-        },
-        {
-          "file": "encvag.dll",
-          "hash": "c888278386ad6f171af5db05ab9d892e103fedf5fefa2c859634bae3206620e8",
-          "size": 150548
-        },
-        {
-          "file": "hair.int",
-          "hash": "c5e404054bbc2e0bd88848e33a706e7ec2deb61e27f29034d579a0982b1cbe73",
-          "size": 110933
-        },
-        {
-          "file": "lineagemonster3.u",
-          "hash": "14427531daa0a7fa2835d46becc691682fe8eca1895bf18714f945a013672cd0",
-          "size": 156830
+          "file": "mantleexception.dat",
+          "hash": "59d732765754a9b81c9763ee45201271e3ffbc33257c3760eaa99d8cbed05b12742e71bd4bedd61fb92cf771022b583513b51c1b61ac75378892c814361d0648",
+          "size": 1072
         },
         {
           "file": "hairaccessorylocgrp.dat",
-          "hash": "5731f1cbee5e4d12b9309005f2c0aa65c31f49f41e307be7a9b45ea8c3c13752",
+          "hash": "b4eef780847cb88b76a223bc6e43994e0ea0c2468503bf316eb303bb2dafcf94b79a98d76083cb6a3b0e960d573fac4305cd23fcc71fe76e9d508912d499e990",
           "size": 4656
         },
         {
-          "file": "user.ini",
-          "hash": "0a54916f3a70f48aa33292a281ae190b20218f1892b7ee3e97f2859b3c1b3910",
-          "size": 4912
+          "file": "SkillName-e.dat",
+          "hash": "493546ebd003eafeab3f1771667deb935349c66b10c0c51499e7f7871bcc25a4f7fa8fa91b501daddb4ef95ff37ae5243816edb1be10830f70bd0ec640817bac",
+          "size": 740912
         },
         {
-          "file": "engine.int",
-          "hash": "ba7c6fae088b4f69d1d7ca37a13f8108629dfe5877a1984407634e6e713bb535",
-          "size": 6915
+          "file": "NpcName-e.dat",
+          "hash": "f355a458fd279af4b9414f7df4e193cbc0582cf6e48483a1e2579a75022194622fa92535318e6cf1dba987c23af34803a9247bb978ba5f4b76a17f242b05b052",
+          "size": 81072
         },
         {
-          "file": "lineagemonster5.int",
-          "hash": "7c052514e3bdb16219fc487b4e893deeb99ec2b84729daf26245106a794d1a87",
-          "size": 81781
+          "file": "window.dll",
+          "hash": "22b818971ed8b377b7371f73f52ced3a3cab9fb105822a090c468a9057935f8994c334935e77a89ca227e3dbf3ff7c8fab5bcc42c988a520e057d61a1b1795c9",
+          "size": 508948
         },
         {
-          "file": "L2.exe",
-          "hash": "35e86d5c301b26664e0fa47aa6e833e71541c73024cb17a97f6c9a17ef2b4019",
-          "size": 432386
-        },
-        {
-          "file": "lineagewarrior.u",
-          "hash": "7b504cc3b51af53220b86f09255062a1879b5da77393e6cc62b20767ba9eacb2",
-          "size": 31365
-        },
-        {
-          "file": "skillsoundgrp.dat",
-          "hash": "c3496382d8047dbb052bce04c59ac372bd58b8615ad322416af8fd4fabe7772d",
-          "size": 103856
-        },
-        {
-          "file": "raiddata-e.dat",
-          "hash": "3e78b019a136789df0c763720c4c23d13b5d6ff73dc3bce7f16e3a161cedb97e",
-          "size": 34352
-        },
-        {
-          "file": "lineagemonster4.u",
-          "hash": "fe5fe78729f3b93c85f7e6abc9e67329616d0b2f6832a897a4acda96583ac824",
-          "size": 210329
-        },
-        {
-          "file": "alaudio.int",
-          "hash": "c916602dcd6f6a46bbcedc7ade0527a168337de40fd7264ecf0282137b0b9a6c",
-          "size": 2766
-        },
-        {
-          "file": "timeenv3.int",
-          "hash": "76f42733f4e14cab96cb577d97825c857b0a5ed17a5297a7dcbb21901f211b35",
-          "size": 26021
-        },
-        {
-          "file": "ZoneName-e.dat",
-          "hash": "5f5c5f95c7c71949026cfc151d59d99a1d5e2c7911df087d52c9624a01e380e9",
-          "size": 8752
-        },
-        {
-          "file": "engine.u",
-          "hash": "8d4977cbc748c0ef42528f18a5b425ee9119264f6d496ab27cce67aaf1e121cb",
-          "size": 2801129
-        },
-        {
-          "file": "ttfontinfo.ini",
-          "hash": "23dc2fda01d6bf08660dc659c3ba125b145e0a34e6fc15318085d7c3b18b2f7f",
-          "size": 795
-        },
-        {
-          "file": "core.u",
-          "hash": "e3734cbf4ba702db4ed44570f5d3a711b8cb5292a02c087407dba02b51ee1877",
-          "size": 72950
-        },
-        {
-          "file": "windrv.int",
-          "hash": "1f94173c9a360857f5f39cefc77c9b23823462d21ce418d201c7945c0ffb62bf",
-          "size": 729
-        },
-        {
-          "file": "logongrp.dat",
-          "hash": "79d26187f40a99d224c567a93435f8fb8df4836f2d0a6401fb6e8a45b62d3a0b",
-          "size": 176
-        },
-        {
-          "file": "transformdata.dat",
-          "hash": "75e17b694855eb7f8a49df349689c8c6437c7f244aa88149e9fb01286f6cef2e",
-          "size": 1456
-        },
-        {
-          "file": "hennagrp-e.dat",
-          "hash": "837e1665358e510dbd8e36b5d71737717f894b9e71a8d06db8b68ba29a54a03c",
-          "size": 1968
-        },
-        {
-          "file": "fmodex.dll",
-          "hash": "dc5ab263fa9def8006e76fab4eb5d28e6c6d9bbe60e98602f8b53594b0dbfcfe",
-          "size": 374804
-        },
-        {
-          "file": "lineagenpc2.u",
-          "hash": "674485a6ba5cf6b469e340df79321883e8312f54e767b7f679cfdfead5c79848",
-          "size": 486941
-        },
-        {
-          "file": "creditfont.gly",
-          "hash": "3cd03bf241ef34b8698cb03cb89d48bd0110ba797d94510987469fad8ff68a85",
+          "file": "smallfont-e.gly",
+          "hash": "fc2a6054e2c93cb5ca50be6b0952c796b97503a67c385445e6337591b5e8c2f10df6ab9b913e3002c5d462e682249bdbf1fe0c95397e9d9daf7f33b4dc84dac7",
           "size": 181800
         },
         {
-          "file": "posteffectdata.dat",
-          "hash": "83ca8dc9c3d2702c72262eaedbc9283d493f585208ab2ce7214d223eaedfff8b",
-          "size": 304
+          "file": "ipdrv.int",
+          "hash": "61d7d288d9cd852402e650fe172c9b23a731c0e7cd3eee6d877911fe62e2910d5375601362f28cb54cbf41e37061c177572c70dc71c724ea3605fa6f1292647c",
+          "size": 1840
         },
         {
-          "file": "dsetup.dll",
-          "hash": "d48dfa0f6177fe307c97f36c0af6d2d9027b42c263ddd31b6d463141b0e7d824",
-          "size": 62996
+          "file": "productname-e.dat",
+          "hash": "061cc23fdd6540b38c2650e2015e97b447ca2df0db681edeadb9651cfe07fb590edd9be4135ca1ac710c768eb7ddafdb1812e5171605f935576db81501cd4ddf",
+          "size": 15152
         },
         {
-          "file": "symbolname-e.dat",
-          "hash": "e0f8fbad6dab49596c0b58c6f9ba8e21c771ac54abb6d72a0c2fc875c0de2911",
-          "size": 304
+          "file": "NpcString-e.dat",
+          "hash": "8a9f9255fb75300766a11762d8f45937da435804b0eb2bc64dd2e245446963aeed9222ebd7c9da654373e81c2a59439d70aa67cc71cc886ed2aed327a3f4e265",
+          "size": 106288
         },
         {
-          "file": "cloak.int",
-          "hash": "4165d0593d8dc627e5bf90f10ce700958916fd7157d890abe212a11a39d35f70",
-          "size": 454
+          "file": "user.ini",
+          "hash": "10afcf5e4013c4334487a4ee1aa61ea648bd21d2c7b606059b4b9788e9ec8ee3b7bd835c8c5858a8f787f73e072f6fae18b9fe5369227737f986066ed83db97c",
+          "size": 4912
         },
         {
-          "file": "actionname-e.dat",
-          "hash": "9fd7b32b3794b1bf72084555f7b3a8ec7eec4703878f8676cc7e545d50cccef0",
-          "size": 10544
+          "file": "fire.dll",
+          "hash": "8d93166b44fb9ffc182a44f97435e635a0bbfc2ef23fc7d0c513caf131497f86c23cac46ac448f5675091a5f97da35a7951d7defd71fd0bad742addedd1a1890",
+          "size": 163860
+        },
+        {
+          "file": "interface.xdat",
+          "hash": "54f3eb826b6e555f0f9d226578df7a04e97c0ee6aab33723c1cf5b7711dc30f01f777a6842f92976910d368bff049448b77102599eea9072de7973b745069be8",
+          "size": 1452221
+        },
+        {
+          "file": "WindowsInfo.ini",
+          "hash": "a8bd9c583b4b81ef749eeb20962a0d632a89cc271f4cc5bc5bc89656f9c840ef0d191762a11e5914d56d91c52a3de5b68fc7f4a4402550f17ad51b36fd3d0f7f",
+          "size": 1954
+        },
+        {
+          "file": "encvag.dll",
+          "hash": "0095bcbaf82f7d32bdbadaabaacd2fc6784ee6b4d3a823457bfa51ac8fd8500f3a00b349bf085589a51fae82e42621ad31373d81c358eed8e6c1ddbf56b1d7ad",
+          "size": 150548
+        },
+        {
+          "file": "nwindow.u",
+          "hash": "b89fd030472c373dbc9a0dfcf5e3ecbdef675c4f682c2a3466e85f6c57e8eeac126879341029c7ce14fd7c05ebd9f7c0302cb5e44e3b1a06095a51a6b9dcf980",
+          "size": 527475
+        },
+        {
+          "file": "ipdrv.dll",
+          "hash": "5dba7d4c249eb055713dbadc89ced0749e4e0bb18e83a0242205a03491c90d1180c82fe7a2787aec779869dfec5b3b38a86581f51f4751e02ec5112e4ff9ec8b",
+          "size": 303124
+        },
+        {
+          "file": "SystemMsg-e.dat",
+          "hash": "9a4c0fae7d43ec0a8ff3b283cb49c0ee8dee678d552d957aeafcd494dbebb7876e1de83547a8a5bed23dcbe83d83bbe8154c6f30e62658eeb415bde78c934eb9",
+          "size": 81200
+        },
+        {
+          "file": "skillsoundgrp.dat",
+          "hash": "5d06bb710c75b973217f32a4272964b42166bcd3ee594ecb348c1def4469090643a4cf6830eb118eeb24c2cabb81318ae39b14323ef8d48097b1e39e9fe5baf2",
+          "size": 103856
+        },
+        {
+          "file": "wform.bm",
+          "hash": "7d9f6f987bbdb1abafcc19047893a9da83f70abe2fcc36429e3ecea56084cd78ca40b00fc13aa8f0034c4d294d3d898942418ba025aa260d230f52e02b7974c7",
+          "size": 527005
+        },
+        {
+          "file": "npcgrp.dat",
+          "hash": "6690640aa97ac0f4853ab8385632f9c026196d769cbb8104ab034e60ffc6ee2e30bf788b333cd702396de6eb16b5e54247dbb97975faefd6ca04bc638a1e38e4",
+          "size": 414256
+        },
+        {
+          "file": "musicinfo.dat",
+          "hash": "3fc6fc373bd722e543c526417050b7fa6d3fe8a830b0442532d737a246cc4bfaefdb55c490923074317ccc675cb9d0399323a0e25c2480ad63844551c07800ad",
+          "size": 5424
+        },
+        {
+          "file": "lineagemonster2.int",
+          "hash": "9b6f2cd2279d2c04da3ad85442a9df999fb2e71ab29970de30f8c2b39badb3dec78bb6a2f6cf6483b62bc14ae8613b55a898fa6f8e273efa98a7a0c4b65cc502",
+          "size": 224753
+        },
+        {
+          "file": "timeenv0.int",
+          "hash": "fd383ab189a16825e5a0bd8afc8c9195c8da9d228dbb17fb6ea3289261ccc3f7a3da6068e822f12b8dab4e7e8978e0ba1b2c6d8686fb1a1904ad5a830f3cfcdb",
+          "size": 25208
+        },
+        {
+          "file": "sysstring-e.dat",
+          "hash": "e1aa986b9b7b741d6365c2d2f12b721ddf7ddd14d1a18ab55579f52c3b391d294865ab8ba32799884826b2a377163d038e931d3ecb615f841521635aa415230b",
+          "size": 22064
+        },
+        {
+          "file": "chargrp.dat",
+          "hash": "886c748d4e380ff29b8bf86cbd0079bc6974853866e4c02f7efa3eb06a039a1367836e7f59b6f20cb80b053966e33a15463c73c1e1fbddf90f20f628a4fa3c58",
+          "size": 6064
+        },
+        {
+          "file": "lineagemonster6.u",
+          "hash": "1dcba5fdc963c7d934b61335f2e3ba43b3416f11aceb642668b759ac19ccd59c1de9489f930ad5031496d45b66b89aa171a6fc036809d79c1dc20e9090533cfe",
+          "size": 5513
+        },
+        {
+          "file": "editor.u",
+          "hash": "b2904bcc63790fd2a8b1f7dc572d8f63a5192c30b19d43447b12c7523f0280da6a82cef149580040ac36673d163e268511a5ab5cbce2ba2db473c3703eac03f9",
+          "size": 587535
+        },
+        {
+          "file": "questname-e.dat",
+          "hash": "af098239139fec87036291fb868c07f6aedc4406f02855555629268d84e36b7dbfbb729496c87c7aeaaaf4baeb4ea7c2c0da4245cf233e5c61acc89313a68335",
+          "size": 291632
         },
         {
           "file": "ifc23.dll",
-          "hash": "2a4751b579ab8b68585d61dcef08fa6e9f5b853ce429b026e18a83ae1960fb1c",
+          "hash": "a586fae45e8125b3a1d5c7ab2ef621e4ccf82f5b08bf7ba5158b519c32df1e350eb2fe4abe6f7ec91c581f07b23375d22768036a821839e9d2dc45d4a184ada5",
           "size": 233492
         },
         {
+          "file": "creditfont.gly",
+          "hash": "3b66b158e47efe943c29381bbc652a41c9a22705ea61be19b538fdfe096ae963917ea2a183cd955f3fddc61e29ca6577eb1d3b1aeeaaf6f2b6b6de1c87a51981",
+          "size": 181800
+        },
+        {
+          "file": "lineagewarrior.u",
+          "hash": "58cf514287ff6a19c5dc8ac39124747331d9b297e6be107d42eaee453d46a3cdf72d8e226554fc51a2d8a046ddd6fddb23ad0c7ff3c1ae3c29d4fea68f06fa95",
+          "size": 31365
+        },
+        {
+          "file": "gametip-e.dat",
+          "hash": "6d1527fc8b748e59ef63a9c3c017b9cb5f9354e12ec5fc66ac7a05eb2fb535ca791652126f655a4dec552c4a7bf63dc2a535da1a5570c1bb0c1b9663a85f4661",
+          "size": 17712
+        },
+        {
+          "file": "defopenal32.dll",
+          "hash": "175909289877293e5a967d28ed1d5f90a8871e2c6c7724bb2d6cdf5c5eabd158501434a13ba99d341001e950c112b4c2c12c6323a0463cb3eb927c788e012831",
+          "size": 114708
+        },
+        {
+          "file": "ridedata.dat",
+          "hash": "0d51cec33b47425918333a46a52d97af471d6f6a9ccd1ef0095b4def43ef842e001090f692300095ed694d9aac9bb2d3760a6a6d6aa0cac2410dd1a666ab794a",
+          "size": 816
+        },
+        {
+          "file": "uwindow.u",
+          "hash": "2b9000743174cdfc7601ccdaf6f92e01a27e23fbc624d7d2481c5d3b5a8a3b0c54f6a1c1a2787317629fb63e78adc70ae746827a0c9442165b9d8dc3208a269c",
+          "size": 653179
+        },
+        {
+          "file": "ZoneName-e.dat",
+          "hash": "53bf495a7309383a606d638454f55ee8ee1af42425a9748c1f54eaf094a9694986e5fc2dc13c8ee1f481d0323e855bbcccaa24ecf1fde17d20c55958e2427c14",
+          "size": 8752
+        },
+        {
+          "file": "lineagenpc2.int",
+          "hash": "8517af121771365f5d997fe17e2990b93d042705bfb2627738078972e8ef230838571b5dc7f2d69d31e5a485c1e4c4ee42b5a3dbf362a7612b141ad654b558a2",
+          "size": 148140
+        },
+        {
+          "file": "shortcutalias.dat",
+          "hash": "2fd4a915932c992a50ecb0270628df1770eee83cbe570f318b6f95d7006135611c90b0fdf360b841c30e029a931d8fa03a4ac9382250651b4c48bb1fd11076f1",
+          "size": 2096
+        },
+        {
+          "file": "hennagrp-e.dat",
+          "hash": "0dccd8c2e3694bdb6673d9048e998a0b1c0231cf17e64af7b6975dd06383ad7608eb639deda96d9844a9d2c09de8f82d9c4c22f8f9fdbbab6d2a67a96c1c7a23",
+          "size": 1968
+        },
+        {
+          "file": "actionname-e.dat",
+          "hash": "662e6098642a97dff933eceff717ab47f74a7b88c90a2e067104cb4b47317df664e3909f46046fe261ddc028713c949291336840fe971e3de38c63b9a7e8d814",
+          "size": 10544
+        },
+        {
+          "file": "engine.u",
+          "hash": "f510e8fca5b73034ae73424c923230927f52f1a1a9927a2208c5f9e5cc069f68cace3bb8de10dd0d0bea1a3db42021fd7e3005bc31e397e91b50a7798982109f",
+          "size": 2801129
+        },
+        {
+          "file": "lineagemonster6.int",
+          "hash": "e8a743bb467217a056450298597ec9937fe79efd880949943916217111a73e4323fd46d8b372c144e51fd2628d2d94827fc6162f693b8ba78a8fff244b516796",
+          "size": 10243
+        },
+        {
+          "file": "lineagewarrior.int",
+          "hash": "e5e091933fcd0278cdec72235589eb7614cc747c02905ef010a61d5fff64c663166a335aaa8539d50e2176ab9691942032da472a92066fca772198fc59a46ebf",
+          "size": 356009
+        },
+        {
+          "file": "goodsicon.dat",
+          "hash": "b96a3a963ef4cf71ff2b59829b0cbed7b592814756f19439c373eafcf88d6ad1856a217ddd17162c33eeecd7d3856ea86c9477b101ddbf7bbb182ec926b9806d",
+          "size": 176
+        },
+        {
+          "file": "ogg.dll",
+          "hash": "3dd5a64965408934a7360459847fbff27756e5ae942a7b9dd9530264af6edd28aa52f63b74153898146acab6135a37e536fb75a778db193ad5b6f4a37ca5f41c",
+          "size": 61460
+        },
+        {
+          "file": "env.int",
+          "hash": "4539d6b7c8c7c1dc166073e123112882579a55ca354f2ffa717d235db2ee7793daf5d446fac05b4f4bd758fae27327b0677a6e450cc8ef9002abb61ed1c83870",
+          "size": 6710
+        },
+        {
+          "file": "lineagecreature.dll",
+          "hash": "5ab6c9ca7e787565665855e08e704c63323948c1955b2066bc7ec6c637d766d3f7b86d9e7d89ec679ed17792e56419ccee0a71c82ec617f6f6048bdfca816614",
+          "size": 116756
+        },
+        {
+          "file": "npkpdb.dll",
+          "hash": "4771efa15a29aa8c492a6cf4e24fe8654bee98a0d4a0a9ed95711392e6c107768112680a2ed368d27907e2b983c26fe7934351e341262aff081a24344c345d53",
+          "size": 53268
+        },
+        {
+          "file": "dsetup.dll",
+          "hash": "c0c34df7d564ffce3cdbe143b6353d9567534ebfc8062398a220ad5b15ece11e0161a9dcc4f499da305abd36658112ca08b4b88d63b4e5f01da3471ed4eccc85",
+          "size": 62996
+        },
+        {
+          "file": "window.int",
+          "hash": "dc3d38246cb5448ccebc8b270084df16feec0dce88a248a876432cf0dbd4ecda9692beb6abdc699a7f312751e5cb41f690df66b9b6eda636ead0c9e4d733df4c",
+          "size": 2337
+        },
+        {
+          "file": "lineagenpcev.u",
+          "hash": "2253c3398911bbd653f09da8fbf94b9ef5a80e3685eeb9a85f487ec8d9364d30525a995111c1b4028df906adf1e90f7b06b2f7ed5a4aef5836291d2d92d4c7ee",
+          "size": 276667
+        },
+        {
+          "file": "skillsoundsource.dat",
+          "hash": "8d4e4855810086547689a276f8c88d837a5460bbf0cc64f4993a48ff2be49f030f0bf72c91e48b3aab903ca7ea151b8164bbfb819c074345d62ff89255955bbd",
+          "size": 13488
+        },
+        {
+          "file": "wrap_oal.dll",
+          "hash": "f4f208b742ef8aaead5e908a800310428c776fc74ec99de2f6c03b3b955d6af5d4ebfb078c99fede1cff97fc4d4d3db93f57ef86f3f17897e6329403d49ae49a",
+          "size": 409620
+        },
+        {
+          "file": "cloak.int",
+          "hash": "f4d631f82f16f69a366f3a69efc9e3b3d735d4602b4c2dc3bddb941d6703794959ff6e94079e0d56fa0985f8076094574fbe98b884fba5df28482a2bb712e1fd",
+          "size": 454
+        },
+        {
+          "file": "skillgrp.dat",
+          "hash": "c0017e1cf96d441d9a2459ba295f949162ab5933f2da63640f7cddb9fb6958b699e0c510fdfe85e687da57f8d0dc6d67fce7174c4df291576baa45e52b83786d",
+          "size": 366640
+        },
+        {
+          "file": "msxml4a.dll",
+          "hash": "1c3b119f9655e0f29afd531fc01a7ec5126ce04c8c15c78dec917a22501f98cf05b69fcbaf411159adfc7811fb02f7286f0ef8952d8a7be404b0414337473112",
+          "size": 44564
+        },
+        {
+          "file": "core.u",
+          "hash": "7b531ae22661b51a7ffa359aa88d3ac411402ed681403d0453d9bf0cb376ef37646e2ee72d7645a7f22a33ef6b0c6d5edf3b320af8726ac3a39b4f9164470106",
+          "size": 72950
+        },
+        {
+          "file": "posteffectdata.dat",
+          "hash": "998f81d23422a22dada9e3085d83b3394860cedf526b5e77f110c828ad69660772f498dc953103df74f5474a1255a0e4246555d2ca96e7d9e7cf7b14bb5af1d0",
+          "size": 304
+        },
+        {
+          "file": "l2forecf.ffe",
+          "hash": "7b1a34fcf48f593146beef774453a5ba539a3968bdc0b635dfff686c069d6c09900c8006069af614043858cbfaab5d622ee959a05088214c7dcaf5e6cf4a29fc",
+          "size": 3516
+        },
+        {
+          "file": "obscene-e.dat",
+          "hash": "746df87fcd96a4ac45f642a201f1110c98f8406e8151d8ac4113b2bec713f98e936b68de4bdf3d88ae6bf662875ad132f21f6c67d42df8111bf61036082cddae",
+          "size": 304
+        },
+        {
+          "file": "msxml4.dll",
+          "hash": "8cc6ebf42a5242850996e9215509066d53a3a0535376913db5157b6a905e70788a79e2c4633fceadc616b72606029f34bbb9c2ca6c34008d9b4d2d3c89f001c2",
+          "size": 1275412
+        },
+        {
+          "file": "eula-e.dat",
+          "hash": "5811de6f6d9416829ad52ea3ff482326665f924e760f50207c7c306818104c706f1d19b669c288be015943e3e1562716b4523952625c7b5abed47d0e43c61db0",
+          "size": 13744
+        },
+        {
+          "file": "d3ddrv.dll",
+          "hash": "112a61b2fecf03f7b189ec8e10abc706028b587491f5c588de2dc3546d98c5d5715af8deea0424f5dde4e747d12882c70847837112102b3035cc8472255b0ae5",
+          "size": 1426964
+        },
+        {
+          "file": "gameplay.u",
+          "hash": "7b7f5ec0dcae5080e2193972561a4e82fdfbd14e17a036a0f2b19f525603fc062984bb0bff94017686d2e634c9fce068157943181676ac64ea8b3c6cda412722",
+          "size": 207796
+        },
+        {
+          "file": "exceptionminimapdata.dat",
+          "hash": "a619d349c0735bdefca420cbf712b766c2e2df807381e4779cfc752130d6e94961a33f7653993b4b371c0376727c2030574e81e3b13b54f319149ed8c804dcfa",
+          "size": 816
+        },
+        {
           "file": "etcitemgrp.dat",
-          "hash": "c6a787d90b100faade3a31f7a08bdab249cdbca4266d818dd495dcd742e8b90d",
+          "hash": "a641d8cb1dd1d16f6cd3ffedd81eea9f78ad2de26ed19874e436040641930d44e12675b5c5027f52e08f670dfeea317f28974947774cae33407eecfdb6a7ecc5",
           "size": 169648
         },
         {
-          "file": "huntingzone-e.dat",
-          "hash": "c1bce594694563185c79e589c31f83c4fd3134b811e4b4f86f2a7744dbe6af47",
-          "size": 7088
+          "file": "ipdrv.u",
+          "hash": "60cd49a2ecf085443bbce2658b13f1cf061c050c4837f32596a1eb4b8c3055ec2d6b60c99f24c5bb21539b9b11b4b28949e240a77d5864f9b68c71ab0b4fc384",
+          "size": 73672
+        },
+        {
+          "file": "beecrypt.dll",
+          "hash": "259a14b05c9c801e4ca3a7a7cff23d31ba95f4d7337a52fba0e6e41adc81ab315e8a70c9a4640c7e4546454425f8fdb0079a3d5b9013c467ce2706066c2d51de",
+          "size": 188436
+        },
+        {
+          "file": "optiondata_client-e.dat",
+          "hash": "faa7f1eda25fc69ae6a2413a2a38a79e9cfc59f30edca325832945a625666a6dcc54ec4ab54001472dcd9ba3d8b147b7cc7f848de4dd4d4e537cb49e4d504003",
+          "size": 168624
+        },
+        {
+          "file": "lineagenpc2.u",
+          "hash": "69058c30466be2eb660ef1c491e3fbfe1763a41447ee21d4d30004f14d9f946d164637a2d832ca892ab2a449f956d8eae6cb6a5a27c1b29315421974a982fde3",
+          "size": 486941
+        },
+        {
+          "file": "fire.u",
+          "hash": "0ca2fe023561a4103b172de581fda579c2a6b5a5fdd7b85c52c6ebf1330041c782d51b75c134a554955797d8ab2d4b8306909b09ac777da615fe875981be1033",
+          "size": 15482
+        },
+        {
+          "file": "ttfontinfo.ini",
+          "hash": "d4c8f49ab7f048d891e9199fa7b9f6cc59fe3f73ff386acd7b6e4e069c67bc497a1bdfd9c7bb1451ecf5b0800ea8b5f1ce924eb4315bca690f9e4b2f5e88b5b1",
+          "size": 795
+        },
+        {
+          "file": "charcreategrp.dat",
+          "hash": "75c7aea0e0093a884c6abd4adf94e565a61f7a99fe9533d1da6ca98dea132d059e03920d99c2be0d09b8e1fb4feebaa402df54fe2046e382feb1d1d9fb20131a",
+          "size": 560
+        },
+        {
+          "file": "logongrp.dat",
+          "hash": "4aa840869683b91f226bdeb7c8fb5a3f47d35f3b5aba3e3f93c73377db3dbb8d43f806fffee2a6ec3b0ab7083300e4ff27428a6e8d8d2490a73deb59aa06fbd6",
+          "size": 176
+        },
+        {
+          "file": "L2CompiledShader.bin",
+          "hash": "4f402286b309729f09aa48960f3c2ce8ba8ff95f630c06db7aa05c802ec74f0574a4a93934f3605a9b330fe908d1e975b8435f754fb09c9e04aceccb416de38c",
+          "size": 111190
+        },
+        {
+          "file": "Lineage2us.ini",
+          "hash": "217a5209eff3d00c37d3f3e91ec617e1084c95be9216a796c4fc73acb6f087d22da269cd00521efb3165d3fb70a07b92f40725497393c8afb04337a7c01a183f",
+          "size": 557
+        },
+        {
+          "file": "largefont.gly",
+          "hash": "8a21fc3e3a3800173f7ec3a9f35a1fa86f3c78d6988a53a1519a300c8098d05ae26ca254a3030881e23903b0e1f7ff47298f0bb9e25c58cf1ae39fb709fdccf4",
+          "size": 185632
+        },
+        {
+          "file": "classinfo-e.dat",
+          "hash": "5f159460e4eb1c0220e2f57715229ee2304099881fcd4e210184d4d43904dc16c39da54667b3a28fbcb70545e4448def6cededf1e7d07b4e79105ba166d685b5",
+          "size": 2352
+        },
+        {
+          "file": "variationeffectgrp-e.dat",
+          "hash": "dbc171ce98fc254577eb205fafe90152d81dc8f35ee21159071b73b523fc5f42f02e4b8a35d83cc82462e497014e0ae01ac325cc83112a6cf4e772e4eccb40c5",
+          "size": 1840
+        },
+        {
+          "file": "instantzonedata-e.dat",
+          "hash": "37bc064d67cb2b6e01a68856b5b0e796bf4528cb9a12a23247274409e82f39168eded4244af070390bcce89c9827b07d2fb5b824352b64e04aa4070a74e556a9",
+          "size": 1328
+        },
+        {
+          "file": "staticobject-e.dat",
+          "hash": "007ef384b11bc0c9db58671a13f18f7154a3caa8b2aa7873a014c67e26163ccae7357b6ca92db6fdf2051f26422ba81fcedab924886e13a23b7877f2b391bf50",
+          "size": 5680
+        },
+        {
+          "file": "alaudio.int",
+          "hash": "1b85bf45bad656f471aa0277fca5996b3249eac73e33dcb304db247d3614f6cb610bd835640d746e000d940f95daf42160c878257ed4f81500b1392c1f417807",
+          "size": 2766
+        },
+        {
+          "file": "bighead.int",
+          "hash": "c2e4ec56722e114658f63b49e65d5655ba56e346119b1adf58e65a4565dcc9371c11f2fc1679f72c226ff8957fe9c26b473af81a4bb5803711d4c74191c402c7",
+          "size": 1078
+        },
+        {
+          "file": "timeenv3.int",
+          "hash": "1c255b716de567666b9f7dda8c3db31967f21806b344c4472ef21c2fe1df410d6b40aebd54b83a748592e1c3dd965d073e624e4a782466d770731f951a55ffa2",
+          "size": 26021
+        },
+        {
+          "file": "largefont-e.gly",
+          "hash": "7964543264432ba099065c4d103d268c245106b9081230160d73f10d5d6b0398a8e28079ae6e37a15558fbd8c7da27070c480663e22c7017eab8b5c527ca2de7",
+          "size": 181800
+        },
+        {
+          "file": "alaudio.dll",
+          "hash": "69caa740488ea2f453186814c7a7e9e44f43340a6095a82e6c280d98b909d055ce9cec954423454fce84b71cb3bdf9e96dd9157ef28af56a76b3f17bd3b13909",
+          "size": 150548
+        },
+        {
+          "file": "Microsoft.VC80.OpenMP.manifest",
+          "hash": "4575f20ca3956f353bbb9f22ec5483f320dafef936507fe35b257964bc84087953eb3c57c5695ce56270ad509d91049350073a8049ec999de02565fd435ce9d8",
+          "size": 464
+        },
+        {
+          "file": "lineagesceneinfo.u",
+          "hash": "1bc5bb51907bde5a8bd54f2a1dd3c4f980be52bd59065729ec975510033011cdff1561e10d6c09d0b4752a7fd791fd78cd7dc3c0f305c379ac8f6fe744a3989b",
+          "size": 121253
+        },
+        {
+          "file": "lineagevehicle.u",
+          "hash": "6c464f05fc458b63c959dfe18a05b30906a4df6371cb8cfde21f92267169e1403da05d2f904fe9cd3c439d84f6ad174fa028893bfc0b43651c4a1090aace3cba",
+          "size": 15487
+        },
+        {
+          "file": "lineagemonster5.u",
+          "hash": "7a2530fcbe72324f2928f871bb0624e378477c8084e20dcdc27fd65d93bfa21cfed23a1b98a0437b8ba92008fe565b95eb227bb42d01db6155196cdca3ac1b01",
+          "size": 137581
+        },
+        {
+          "file": "transformdata.dat",
+          "hash": "12e9b84df83f7a9f5a0278cc0e5f24b358f64bc7a00b6d14d4abc901439354a7081fe0bcdb0bf980c6271ba14c71938084c48b0e80eaddb999c4e2b742375437",
+          "size": 1456
+        },
+        {
+          "file": "lineagemonster5.int",
+          "hash": "5b615fc52387415f0ff46c87cc096396cfb264997d9abb24adf6c1168ce12d72d2e58e1446170b7fab4f5dfbeb900874424e18c10ccf8742dbfdbc921ab915f2",
+          "size": 81781
+        },
+        {
+          "file": "servername-e.dat",
+          "hash": "e6ec15b569e43653b08d430301a31afbb71866cf7b1a506cdc5d93815397f1b36eba813a8aa8c24ebbdfd35e637ebe0f5f65188f174993c314f26c57cf0f36f5",
+          "size": 1072
+        },
+        {
+          "file": "mobskillanimgrp.dat",
+          "hash": "54067dab086f1356db90b88e702ccc208b843a7ecf4affa2658ff5b8e0c176be0a954e089deac732b63deebe1e2ef643353388e6a27525f51e1e6f8a7efc1ada",
+          "size": 123056
+        },
+        {
+          "file": "commandname-e.dat",
+          "hash": "d1a60fc105f2220c69ff041a5b7a8582112be5d49873e523e9960123af03010f87bd4a1760d229410d5cb382e8601e64380880cecc1a192e75cba7918361ed32",
+          "size": 1584
+        },
+        {
+          "file": "lineagemonster.int",
+          "hash": "55d9889b4e21a3a1eb8f37683c9a8c30765dd54f34bbde5b2699bba9949d1002880c98f1c1362599bd242bd3730ac5b9e141326eb51198a40f48631a3dc46aa7",
+          "size": 611758
+        },
+        {
+          "file": "timeenv2.int",
+          "hash": "5079ef738915b656e28a14741e1faf967f97d015b44f115879e384c662c01bc4c13789bea250228b155507481e4961c32e42289bff8cb9d52dcc9963f0589a66",
+          "size": 25196
+        },
+        {
+          "file": "timeenv1.int",
+          "hash": "992df6e0a292aebddd6d4a6dcc5c4d3074d1810235ba8923ca1a22569a554babd008582a287bebd37674eded8e33333dcb18f41e847b3bc9007ada062029647f",
+          "size": 26359
+        },
+        {
+          "file": "L2.exe",
+          "hash": "76c6e1099283ab23f486c1a23f2f6c1fb646f4a5bca6719aaa59fdc7e27806f66c0f5e75537639a538bf4c0e36cedfa506f422939147d56b9226f5041f501207",
+          "size": 432386
+        },
+        {
+          "file": "lineageeffect.u",
+          "hash": "835e1d8c7e8a4805f3dee2c50e829d1349bbbd2a3a114b8baeda76ef731b782fc44276e513db1c92debb693ba7361f68913f802747374eba535d1a7f3648c592",
+          "size": 6841237
+        },
+        {
+          "file": "soulshot.int",
+          "hash": "59a7266f7d972ee02194cb1a8157ebe93b52eef4587cbb119b3a89d97621a4b496a9ee4f168ea02d9188580d76c711322e86cdfd7f88003efb79a41a75d9b963",
+          "size": 1900
+        },
+        {
+          "file": "castlename-e.dat",
+          "hash": "2a2430bbe35d126ab7bf47c885e7f6354096fd01738b5853383d699b639b6f6241366a954c63f716026904107fd5cd1e8bd270eb40a15a3af9b2e5dde265532b",
+          "size": 1968
+        },
+        {
+          "file": "lineageskilleffect.u",
+          "hash": "73c5b7e972e92a12da3c8a9de81504c43ee8fe7b1a66ac7bc31fbdfcee414b4d96eee1acd092762287222ddf4e028e805dd62619a157ea68c569397342ea8dcb",
+          "size": 582788
+        },
+        {
+          "file": "vehiclepartsgrp.dat",
+          "hash": "4469d8075151790f636bdbbe021b63b5291ce9a906ea1b451864c989c803917616dd190bdda6d9250013689186acdf0f4d0a6c617de30f8b0f88d45bc3d38651",
+          "size": 560
+        },
+        {
+          "file": "predefinedshader.bin",
+          "hash": "58c4ec8edc61427a1c3f31a67d7e66725c16a7212cb0d22bb1af87429db86cb58c8a6f0b2ad1c19f2dffc2f2adcd5d458502e77ea9bbc3a4c137cf033cb4609a",
+          "size": 68625
+        },
+        {
+          "file": "npkcusb.sys",
+          "hash": "aa5c87aa67e62868a529ab6949892c8db73554ecda5ea62c3627001d8a95bdaff5cb56935416ad94caf080ceb7c6ea3cb44ff4b0ec6fea942a7f41e735b3833e",
+          "size": 15472
+        },
+        {
+          "file": "lineagemonster4.u",
+          "hash": "2e0e70c8d068e8efa6a82899631ce1cc7d5219a7dfe7a75a83701248406c49cb01544ec3aa9ba3da09fd9174ed20468759a769a691d80ac28f6aa4ad435209bf",
+          "size": 210329
+        },
+        {
+          "file": "lineagenpc.int",
+          "hash": "164e973fba041e098f1302911eb56a1b425cdd8e56958949825e2153117655ac7527fe5be8b4106b129530309be3d8d1b3f80c88c91cbc0bce68ce2603b564ab",
+          "size": 125536
+        },
+        {
+          "file": "chatfilter.ini",
+          "hash": "17a96f2712a6eecdf6238204e8efaac04acad6038048f5a0f59c0019b7f04a19e5ab40452a7c82ded8b57c345c79f33f5987ffdd152b47fa1da03b334c132611",
+          "size": 1076
+        },
+        {
+          "file": "Core.dll",
+          "hash": "6ba35ddeb76bf24f491faa1419d790799a7b365f16a7f55b626782609b6661b98b4de87b3a4c93b9a2d4eb6881a946996158a9137f3974b5536315476722bf95",
+          "size": 958424
+        },
+        {
+          "file": "fmodex.dll",
+          "hash": "6fddb0475b18a7b4d3297e7c63dbe5579c0b8174eaefc9e4f5ee875821d8458b1c49bd6cc3cb345664dd4663b1bc5a4f52a502f7770283fe617647d01a22e3f0",
+          "size": 374804
+        },
+        {
+          "file": "interface.u",
+          "hash": "5186c6b874db2ee312575c73ac6b2c0ceb25fedef2b92862242ade519f5e60b9818769d2122e30d0667d0f5eb4e1a359c2f94219a113d371200ce4ec9b584e1b",
+          "size": 4706060
+        },
+        {
+          "file": "vcomp.dll",
+          "hash": "235bdcb3c7dffb76f7ff279002d3ec2f7e59f9a8e050021194cd41710aa8ffca40ffacb219986ee3a20536eee4c5dded4064e2e5e3844464b5fe0cde86bb6da2",
+          "size": 65556
+        },
+        {
+          "file": "weapongrp.dat",
+          "hash": "bbde42d4b60f304048bbd18a50f580461c5a82df489a33595479fd9fc457f24917ee13d501da4b2e9af6cba37af7158dc5f897aa11593f368ed60c25fac2bf61",
+          "size": 249776
+        },
+        {
+          "file": "nwindow.dll",
+          "hash": "3727e7737dd3062dcf992ebc499ed5602b9f73a2b40168f660db15540f345a132233b2db6f02b439316b2090b08a840cd56c38387695da1239d5063f3087012a",
+          "size": 14199828
         }
       ]
     }
