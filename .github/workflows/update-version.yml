@@ -13,14 +13,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v2
+      - name: Setup Python
+        uses: actions/setup-python@v4
         with:
-          node-version: '20'
+          python-version: '3.x'
 
-      - name: Install jq and b2sum
+      - name: Install Python dependencies
         run: |
-          sudo apt-get install -y jq coreutils
+          pip install -U pip
+          pip install hashlib
 
       - name: Calculate file hashes and update version.json
         id: update-version-json
@@ -42,7 +43,7 @@ jobs:
             fi
 
             find "$dir" -maxdepth 1 -type f ! -name 'version.json' | while read -r file; do
-              hash=$(b2sum -l 256 "$file" | awk '{ print $1 }')
+              hash=$(python3 -c "import hashlib; print(hashlib.sha3_256(open('$file', 'rb').read()).hexdigest())")
               file_size=$(stat -c%s "$file")
               file_path=$(echo "$file" | sed 's/^patch\/'"$dir_path"'\///')
               jq --arg folder "$dir_path" --arg file "$file_path" --arg hash "$hash" --argjson size "$file_size" \
@@ -53,7 +54,7 @@ jobs:
 
           # Handle root level files
           find patch -maxdepth 1 -type f ! -name 'version.json' | while read -r file; do
-            hash=$(b2sum -l 256 "$file" | awk '{ print $1 }')
+            hash=$(python3 -c "import hashlib; print(hashlib.sha3_256(open('$file', 'rb').read()).hexdigest())")
             file_size=$(stat -c%s "$file")
             file_path=$(echo "$file" | sed 's/^patch\///')
             jq --arg file "$file_path" --arg hash "$hash" --argjson size "$file_size" \
