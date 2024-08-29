@@ -18,11 +18,6 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install Python dependencies
-        run: |
-          pip install -U pip
-          pip install hashlib
-
       - name: Calculate file hashes and update version.json
         id: update-version-json
         run: |
