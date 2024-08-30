@@ -13,10 +13,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
+      - name: Install OpenSSL
+        run: sudo apt-get install -y openssl
 
       - name: Calculate file hashes and update version.json
         id: update-version-json
@@ -38,7 +36,7 @@ jobs:
             fi
 
             find "$dir" -maxdepth 1 -type f ! -name 'version.json' | while read -r file; do
-              hash=$(python3 -c "import hashlib; print(hashlib.sha3_256(open('$file', 'rb').read()).hexdigest())")
+              hash=$(openssl dgst -sha3-256 "$file" | awk '{print $2}')
               file_size=$(stat -c%s "$file")
               file_path=$(echo "$file" | sed 's/^patch\/'"$dir_path"'\///')
               jq --arg folder "$dir_path" --arg file "$file_path" --arg hash "$hash" --argjson size "$file_size" \
@@ -49,7 +47,7 @@ jobs:
 
           # Handle root level files
           find patch -maxdepth 1 -type f ! -name 'version.json' | while read -r file; do
-            hash=$(python3 -c "import hashlib; print(hashlib.sha3_256(open('$file', 'rb').read()).hexdigest())")
+            hash=$(openssl dgst -sha3-256 "$file" | awk '{print $2}')
             file_size=$(stat -c%s "$file")
             file_path=$(echo "$file" | sed 's/^patch\///')
             jq --arg file "$file_path" --arg hash "$hash" --argjson size "$file_size" \
