@@ -1,786 +1,786 @@
 {
-  "version": "0.0.9",
+  "version": "0.0.10",
   "patch": [
     {
       "folder": "systemEdelvez",
       "files": [
         {
-          "file": "lineagedeco.u",
+          "file": "systemEdelvez/lineagedeco.u",
           "hash": "f746a16798530ba325a80f3ed909478b56fb888724c2b9adb8248b75097060ad",
           "size": 6813
         },
         {
-          "file": "engine.int",
+          "file": "systemEdelvez/engine.int",
           "hash": "ba7c6fae088b4f69d1d7ca37a13f8108629dfe5877a1984407634e6e713bb535",
           "size": 6915
         },
         {
-          "file": "armorgrp.dat",
+          "file": "systemEdelvez/armorgrp.dat",
           "hash": "656f633a2ff63591fb3834f40882ab3eeda6e652e437532d6452e3d86116193c",
           "size": 419760
         },
         {
-          "file": "additionalitemgrp.dat",
+          "file": "systemEdelvez/additionalitemgrp.dat",
           "hash": "04157a394762113d03e4886f832244e647d181666a21972bc62a7235ea43ce58",
           "size": 47408
         },
         {
-          "file": "msxml4r.dll",
+          "file": "systemEdelvez/msxml4r.dll",
           "hash": "b9d07b33cae92176bd0f31a5aaf8bea5b6362fdc59e6a43b82f8b43db9f6cca9",
           "size": 82452
         },
         {
-          "file": "vorbis.dll",
+          "file": "systemEdelvez/vorbis.dll",
           "hash": "5548137178bc2276043f525d4115b4f433bf89437952f352203cd5a58fabe820",
           "size": 249876
         },
         {
-          "file": "l2precompiledshader.bin",
+          "file": "systemEdelvez/l2precompiledshader.bin",
           "hash": "dfccdfd00e991f2d312109d2c38b5a984f37e03662116ef581bac603c1ddcbdb",
           "size": 45667
         },
         {
-          "file": "s_info.ini",
+          "file": "systemEdelvez/s_info.ini",
           "hash": "24799e1543972b91886c394a0c95714197947c577c12731c5c512463a72f33cf",
           "size": 62
         },
         {
-          "file": "windrv.int",
+          "file": "systemEdelvez/windrv.int",
           "hash": "1f94173c9a360857f5f39cefc77c9b23823462d21ce418d201c7945c0ffb62bf",
           "size": 729
         },
         {
-          "file": "windrv.dll",
+          "file": "systemEdelvez/windrv.dll",
           "hash": "1a557cf195fdab1b74c0ac00e6244a0f28580d4d9802b0581aeb3f88d8467fe5",
           "size": 214548
         },
         {
-          "file": "entereventgrp.dat",
+          "file": "systemEdelvez/entereventgrp.dat",
           "hash": "a029c62ae244fc73827c4e24a4384ff8bcb2700f775c0053099bfaff80958d08",
           "size": 6704
         },
         {
-          "file": "symbolname-e.dat",
+          "file": "systemEdelvez/symbolname-e.dat",
           "hash": "e0f8fbad6dab49596c0b58c6f9ba8e21c771ac54abb6d72a0c2fc875c0de2911",
           "size": 304
         },
         {
-          "file": "lineagenpcev.int",
+          "file": "systemEdelvez/lineagenpcev.int",
           "hash": "e3a8f026f7ecdc137014f24dd63677f2cdc8c25e9df58723715e32c68c4bd2f8",
           "size": 6397
         },
         {
-          "file": "hair.int",
+          "file": "systemEdelvez/hair.int",
           "hash": "c5e404054bbc2e0bd88848e33a706e7ec2deb61e27f29034d579a0982b1cbe73",
           "size": 110933
         },
         {
-          "file": "smallfont.gly",
+          "file": "systemEdelvez/smallfont.gly",
           "hash": "ee91bfbde62c44b32a30d314a372f35e45c309d3b7c3982da5ac9d63a66d883b",
           "size": 181800
         },
         {
-          "file": "lineagemonster2.u",
+          "file": "systemEdelvez/lineagemonster2.u",
           "hash": "44ab0d6b7b3bc7cc487ab3ddb5906040009473ea0c07a066ad537ecfc9c9544c",
           "size": 180861
         },
         {
-          "file": "huntingzone-e.dat",
+          "file": "systemEdelvez/huntingzone-e.dat",
           "hash": "c1bce594694563185c79e589c31f83c4fd3134b811e4b4f86f2a7744dbe6af47",
           "size": 7088
         },
         {
-          "file": "Engine.dll",
+          "file": "systemEdelvez/Engine.dll",
           "hash": "e707ad21014fd925f50b1f0d19dbadc03bb13da9446a9cd011b3640525b0ce54",
           "size": 8146944
         },
         {
-          "file": "vorbisfile.dll",
+          "file": "systemEdelvez/vorbisfile.dll",
           "hash": "1e05684598d59b89c38ff9e8857bb6956620eaf4ca486b0b1e3796b59fc1655b",
           "size": 106516
         },
         {
-          "file": "npkcrypt.dll",
+          "file": "systemEdelvez/npkcrypt.dll",
           "hash": "9feea28516f7c2dc1486cc99fa2264f107b31b6336c6ad0454000e1912d243f2",
           "size": 409700
         },
         {
-          "file": "lineagemonster3.u",
+          "file": "systemEdelvez/lineagemonster3.u",
           "hash": "14427531daa0a7fa2835d46becc691682fe8eca1895bf18714f945a013672cd0",
           "size": 156830
         },
         {
-          "file": "npkcrypt.sys",
+          "file": "systemEdelvez/npkcrypt.sys",
           "hash": "f556d97050aa9d4573bca01316a1a84b70668694ef759c2576b5af4013870a00",
           "size": 23217
         },
         {
-          "file": "raiddata-e.dat",
+          "file": "systemEdelvez/raiddata-e.dat",
           "hash": "3e78b019a136789df0c763720c4c23d13b5d6ff73dc3bce7f16e3a161cedb97e",
           "size": 34352
         },
         {
-          "file": "sceneplayerdata.dat",
+          "file": "systemEdelvez/sceneplayerdata.dat",
           "hash": "9400bc30b4f8d6a38b2ccbae4763f27ce6c73aa7e63c7e0efc0eb07652d5c340",
           "size": 816
         },
         {
-          "file": "npkcrypt.vxd",
+          "file": "systemEdelvez/npkcrypt.vxd",
           "hash": "444e724ae455d337ed25f9b143b998092773904b145f125c9488856c2d7843f5",
           "size": 26344
         },
         {
-          "file": "udebugmenu.u",
+          "file": "systemEdelvez/udebugmenu.u",
           "hash": "bdb3249c66a1fbbf0235270520ce148401db547506051e05764df5d8a399b777",
           "size": 232414
         },
         {
-          "file": "recipe-c.dat",
+          "file": "systemEdelvez/recipe-c.dat",
           "hash": "4fa8b012d70807e0f12060f8b06d3e1fd73e73a6402c1f4f3d6f6e43620bec4b",
           "size": 28336
         },
         {
-          "file": "nsplash.dll",
+          "file": "systemEdelvez/nsplash.dll",
           "hash": "3ba27a6b1ad5d60d0b71d35f3b3851c66bc84cf740e15313a0327892dd7c24fa",
           "size": 86036
         },
         {
-          "file": "core.int",
+          "file": "systemEdelvez/core.int",
           "hash": "f4ae4b8dd230a085d0a032baa11719b6c765ad7863924d9711583ed9505a0651",
           "size": 3428
         },
         {
-          "file": "itemname-e.dat",
+          "file": "systemEdelvez/itemname-e.dat",
           "hash": "417604bd34a5f06c4fd6c4a10f7ec860a8c8e7d992f1fc2788786b69a942dc89",
           "size": 546096
         },
         {
-          "file": "localization.ini",
+          "file": "systemEdelvez/localization.ini",
           "hash": "661cce40d6557878d6c3da7b5a5dde279ebc0ee1a570b5b81a48318275f3482c",
           "size": 5617
         },
         {
-          "file": "l2.int",
+          "file": "systemEdelvez/l2.int",
           "hash": "99538fd2c4f86ee951d76154425c457a7aad3d993a490dfcb82c7c713e42357f",
           "size": 176
         },
         {
-          "file": "additionaleffect.dat",
+          "file": "systemEdelvez/additionaleffect.dat",
           "hash": "e8dceb3a7fb5a8879d2430104ec61fa6d7b8b98a7a370927675afee93deef087",
           "size": 304
         },
         {
-          "file": "creditgrp-e.dat",
+          "file": "systemEdelvez/creditgrp-e.dat",
           "hash": "79dbacc77bcc8fcede10e3f38c3151e088ae5b313d10ece86476be674fc151d3",
           "size": 944
         },
         {
-          "file": "lineagecreature.u",
+          "file": "systemEdelvez/lineagecreature.u",
           "hash": "13368122595058102d1c02d0b635182cd91723250a1f7aa2fae9d2f59264c85d",
           "size": 13010
         },
         {
-          "file": "lineagenpc.u",
+          "file": "systemEdelvez/lineagenpc.u",
           "hash": "8170781beb2806a48bf237c5a7175e430c51c3b352ae339ebed7b6b4ee51d51c",
           "size": 128317
         },
         {
-          "file": "l2.ini",
+          "file": "systemEdelvez/l2.ini",
           "hash": "11ce91905b7984c0af42dc0805f9f31fb1eac8f78f37a27030d0f60bc86b41cf",
           "size": 4144
         },
         {
-          "file": "d3ddrv.int",
+          "file": "systemEdelvez/d3ddrv.int",
           "hash": "f1be03577498513fd73e6f227686c0b27fd73b55d203453bc3c579fc957e1c52",
           "size": 422
         },
         {
-          "file": "lineagemonster4.int",
+          "file": "systemEdelvez/lineagemonster4.int",
           "hash": "43e31b1e53408e8ee56945708d7a0955b538d7df5e3bd9cc07120af4e0b2ef40",
           "size": 201664
         },
         {
-          "file": "lineagemonster.u",
+          "file": "systemEdelvez/lineagemonster.u",
           "hash": "e0a446d6536b43ffae9f9141b87ad197c441d92dcccc929777b752ca11d35852",
           "size": 250573
         },
         {
-          "file": "lineagemonster3.int",
+          "file": "systemEdelvez/lineagemonster3.int",
           "hash": "906e74776071e2a1bee9aa18e62dff2821ab77f5c0ede4b1dc36ebd02c7ae422",
           "size": 87459
         },
         {
-          "file": "mantleexception.dat",
+          "file": "systemEdelvez/mantleexception.dat",
           "hash": "f967f6e809dbfdc466597bdb1a6a21408ba9876de796cd56b779181d139e5761",
           "size": 1072
         },
         {
-          "file": "hairaccessorylocgrp.dat",
+          "file": "systemEdelvez/hairaccessorylocgrp.dat",
           "hash": "5731f1cbee5e4d12b9309005f2c0aa65c31f49f41e307be7a9b45ea8c3c13752",
           "size": 4656
         },
         {
-          "file": "SkillName-e.dat",
+          "file": "systemEdelvez/SkillName-e.dat",
           "hash": "a8572e9db0dbf7df7f7564b5613c3fe2a9be989cbe6eab8741e785451eb293be",
           "size": 740912
         },
         {
-          "file": "NpcName-e.dat",
+          "file": "systemEdelvez/NpcName-e.dat",
           "hash": "3c50fc2fa26112a5aa9b5770159ff561e97994b163936f2a9eab263a07d1cd9b",
           "size": 81072
         },
         {
-          "file": "window.dll",
+          "file": "systemEdelvez/window.dll",
           "hash": "ef0a9bf120cd8fe600b2572d3c9e5648a411c4c6975747ee4821155a618758d1",
           "size": 508948
         },
         {
-          "file": "smallfont-e.gly",
+          "file": "systemEdelvez/smallfont-e.gly",
           "hash": "94dd0f8c9055c7ea7e57e0c1c01cd5f61479492d4f9041e7c6eedc36012ea300",
           "size": 181800
         },
         {
-          "file": "ipdrv.int",
+          "file": "systemEdelvez/ipdrv.int",
           "hash": "3100cd32af272ba43a0046e235da5970bbf502eff7c0fab1dae10f501875cd66",
           "size": 1840
         },
         {
-          "file": "productname-e.dat",
+          "file": "systemEdelvez/productname-e.dat",
           "hash": "61dba9f8ffe134af38c768fd0a6581728281e88c87b836c75d85c3750406dc6a",
           "size": 15152
         },
         {
-          "file": "NpcString-e.dat",
+          "file": "systemEdelvez/NpcString-e.dat",
           "hash": "942e6fca4396821a3b45e9356cab77aa9efba0eca4bb9b34a5d50fbd786d742d",
           "size": 106288
         },
         {
-          "file": "user.ini",
+          "file": "systemEdelvez/user.ini",
           "hash": "0a54916f3a70f48aa33292a281ae190b20218f1892b7ee3e97f2859b3c1b3910",
           "size": 4912
         },
         {
-          "file": "fire.dll",
+          "file": "systemEdelvez/fire.dll",
           "hash": "4726cbff7443abb482b6c7b53e3820df646ba096aba033d3576944a063da54dc",
           "size": 163860
         },
         {
-          "file": "interface.xdat",
+          "file": "systemEdelvez/interface.xdat",
           "hash": "13780f8f7ebff13d6c600e80da4a5d0c17a4c2f5c18aec757af9d5644af53217",
           "size": 1452221
         },
         {
-          "file": "WindowsInfo.ini",
+          "file": "systemEdelvez/WindowsInfo.ini",
           "hash": "35ebeb0a5614c90085a9fc99cc9dc941cf23549f0527fc931a58d77570de2b10",
           "size": 1954
         },
         {
-          "file": "encvag.dll",
+          "file": "systemEdelvez/encvag.dll",
           "hash": "c888278386ad6f171af5db05ab9d892e103fedf5fefa2c859634bae3206620e8",
           "size": 150548
         },
         {
-          "file": "nwindow.u",
+          "file": "systemEdelvez/nwindow.u",
           "hash": "f46196cad4d66b228cec71e9e24aabdf224353f00ffcd7496735a9953ec674bc",
           "size": 527475
         },
         {
-          "file": "ipdrv.dll",
+          "file": "systemEdelvez/ipdrv.dll",
           "hash": "92593b712ca97c20ec3d5053b22fbaa055acd733d4d8e7652f71c13c211137e1",
           "size": 303124
         },
         {
-          "file": "SystemMsg-e.dat",
+          "file": "systemEdelvez/SystemMsg-e.dat",
           "hash": "9c560a9deadb3a05bb81c0df93c66fc24c5a2dca165fbee533bd79c25a705537",
           "size": 81200
         },
         {
-          "file": "skillsoundgrp.dat",
+          "file": "systemEdelvez/skillsoundgrp.dat",
           "hash": "c3496382d8047dbb052bce04c59ac372bd58b8615ad322416af8fd4fabe7772d",
           "size": 103856
         },
         {
-          "file": "wform.bm",
+          "file": "systemEdelvez/wform.bm",
           "hash": "c52f1782a62f0c5c107c9d6c76218536110aca674ad30c3498f6c19faf9bcf0a",
           "size": 527005
         },
         {
-          "file": "npcgrp.dat",
+          "file": "systemEdelvez/npcgrp.dat",
           "hash": "795ca1468b10b9bd857f61a9c1912f7cfa335b7c7463ff7e3fc6e66f6e4a38e4",
           "size": 414256
         },
         {
-          "file": "musicinfo.dat",
+          "file": "systemEdelvez/musicinfo.dat",
           "hash": "74e16e46df68b5e2b1d142d64774c43845c5a2d91c913fc108527ab46b2fc9e0",
           "size": 5424
         },
         {
-          "file": "lineagemonster2.int",
+          "file": "systemEdelvez/lineagemonster2.int",
           "hash": "2189b31db3b0dee2f65c79041fd741ff0f6a92dcef932b7e4fa6600164a66cb8",
           "size": 224753
         },
         {
-          "file": "timeenv0.int",
+          "file": "systemEdelvez/timeenv0.int",
           "hash": "520f286a5b55af7b08eb9eb26df5c2d1c27fdfc96e9f33f60a19a44bba9e965a",
           "size": 25208
         },
         {
-          "file": "sysstring-e.dat",
+          "file": "systemEdelvez/sysstring-e.dat",
           "hash": "e654908868c301751758936d928837987239f06bf6a799c510011640c6de1806",
           "size": 22064
         },
         {
-          "file": "chargrp.dat",
+          "file": "systemEdelvez/chargrp.dat",
           "hash": "1598335f5fb1c6875aa2dc90a22fdd272f2895d00f018b46314985bbe41d647f",
           "size": 6064
         },
         {
-          "file": "lineagemonster6.u",
+          "file": "systemEdelvez/lineagemonster6.u",
           "hash": "42fb3d3b776dfaeba1c308651271556cc4288bbee3ecdfef54339c7be4a767cc",
           "size": 5513
         },
         {
-          "file": "editor.u",
+          "file": "systemEdelvez/editor.u",
           "hash": "b841123a383354e5ff1c5a6bdd1407dc51b44f9a1c41a3368c3c64488e7ae60d",
           "size": 587535
         },
         {
-          "file": "questname-e.dat",
+          "file": "systemEdelvez/questname-e.dat",
           "hash": "3fa6f7393f46e2f273828c447647b55b3670d4529aaa5cc3c08cc326e31e3372",
           "size": 291632
         },
         {
-          "file": "ifc23.dll",
+          "file": "systemEdelvez/ifc23.dll",
           "hash": "2a4751b579ab8b68585d61dcef08fa6e9f5b853ce429b026e18a83ae1960fb1c",
           "size": 233492
         },
         {
-          "file": "creditfont.gly",
+          "file": "systemEdelvez/creditfont.gly",
           "hash": "3cd03bf241ef34b8698cb03cb89d48bd0110ba797d94510987469fad8ff68a85",
           "size": 181800
         },
         {
-          "file": "lineagewarrior.u",
+          "file": "systemEdelvez/lineagewarrior.u",
           "hash": "7b504cc3b51af53220b86f09255062a1879b5da77393e6cc62b20767ba9eacb2",
           "size": 31365
         },
         {
-          "file": "gametip-e.dat",
+          "file": "systemEdelvez/gametip-e.dat",
           "hash": "0c61616ef83eb4a9135eba276be68043fb76febae7b66b8b61c1a3f195dcbb8c",
           "size": 17712
         },
         {
-          "file": "defopenal32.dll",
+          "file": "systemEdelvez/defopenal32.dll",
           "hash": "e433deb1edad3c16ef4b622c49ac89eb13f45b6cc022030e0a186fee0025af29",
           "size": 114708
         },
         {
-          "file": "ridedata.dat",
+          "file": "systemEdelvez/ridedata.dat",
           "hash": "1d6a8cf249ff62c67db954e23fb473c48de93a27092dcb37b0ef1db72e7244f6",
           "size": 816
         },
         {
-          "file": "uwindow.u",
+          "file": "systemEdelvez/uwindow.u",
           "hash": "fe6ccce44bd6889152efc07ecbf70090efa5bf05f0b55fe63332340d3382d662",
           "size": 653179
         },
         {
-          "file": "ZoneName-e.dat",
+          "file": "systemEdelvez/ZoneName-e.dat",
           "hash": "5f5c5f95c7c71949026cfc151d59d99a1d5e2c7911df087d52c9624a01e380e9",
           "size": 8752
         },
         {
-          "file": "lineagenpc2.int",
+          "file": "systemEdelvez/lineagenpc2.int",
           "hash": "76bf0450a46bc16d652d44ae33775e895ed3d7d64989459de1d67c708581ea15",
           "size": 148140
         },
         {
-          "file": "shortcutalias.dat",
+          "file": "systemEdelvez/shortcutalias.dat",
           "hash": "8919c5616087861f61ec72c11b72641c158ab574208f9a54a26e654c8d702126",
           "size": 2096
         },
         {
-          "file": "hennagrp-e.dat",
+          "file": "systemEdelvez/hennagrp-e.dat",
           "hash": "837e1665358e510dbd8e36b5d71737717f894b9e71a8d06db8b68ba29a54a03c",
           "size": 1968
         },
         {
-          "file": "actionname-e.dat",
+          "file": "systemEdelvez/actionname-e.dat",
           "hash": "9fd7b32b3794b1bf72084555f7b3a8ec7eec4703878f8676cc7e545d50cccef0",
           "size": 10544
         },
         {
-          "file": "engine.u",
+          "file": "systemEdelvez/engine.u",
           "hash": "8d4977cbc748c0ef42528f18a5b425ee9119264f6d496ab27cce67aaf1e121cb",
           "size": 2801129
         },
         {
-          "file": "lineagemonster6.int",
+          "file": "systemEdelvez/lineagemonster6.int",
           "hash": "d9de2155d6364f08f50aad5fadd3e5c42a04649bbc64e6c949dcb5749ef006ac",
           "size": 10243
         },
         {
-          "file": "lineagewarrior.int",
+          "file": "systemEdelvez/lineagewarrior.int",
           "hash": "e3680a49d4279bc90ffca6b79e22eaba1d01899ceda5333f2fcd74b407622ba9",
           "size": 356009
         },
         {
-          "file": "goodsicon.dat",
+          "file": "systemEdelvez/goodsicon.dat",
           "hash": "e1d14c1b492273932f868cd3ef19e7c227c4b05e5e82c2600fac92d9b75c36c6",
           "size": 176
         },
         {
-          "file": "ogg.dll",
+          "file": "systemEdelvez/ogg.dll",
           "hash": "732ee0dc9122c14aab0b65818adfe255ea3c35458e5796d5268e7ac773b534e8",
           "size": 61460
         },
         {
-          "file": "env.int",
+          "file": "systemEdelvez/env.int",
           "hash": "638b09916ef401fe9b5eae0e8f6972768bf36b2e63d9fa608bbe15864608d70f",
           "size": 6710
         },
         {
-          "file": "lineagecreature.dll",
+          "file": "systemEdelvez/lineagecreature.dll",
           "hash": "e28d49d1bf8670ce0c7b94c7c6d4a556d5eed52980c1f55128a94953a6c06d89",
           "size": 116756
         },
         {
-          "file": "npkpdb.dll",
+          "file": "systemEdelvez/npkpdb.dll",
           "hash": "4d6195979286e35706769fd4420f14e947e489711d4ffca8c1124c5d8d1da4dd",
           "size": 53268
         },
         {
-          "file": "dsetup.dll",
+          "file": "systemEdelvez/dsetup.dll",
           "hash": "d48dfa0f6177fe307c97f36c0af6d2d9027b42c263ddd31b6d463141b0e7d824",
           "size": 62996
         },
         {
-          "file": "window.int",
+          "file": "systemEdelvez/window.int",
           "hash": "fb33125c73d7258e7aab9be5f06961ebf907a694eb5f74c2a2c1d166ff1b7243",
           "size": 2337
         },
         {
-          "file": "lineagenpcev.u",
+          "file": "systemEdelvez/lineagenpcev.u",
           "hash": "dd7d3bdb61026ea6802f34fd70b2acb932816e13952723698237d1a506681fdb",
           "size": 276667
         },
         {
-          "file": "skillsoundsource.dat",
+          "file": "systemEdelvez/skillsoundsource.dat",
           "hash": "b03e2cdf13f347dda189dc984cf83fdd1c801c0d7d28cabfff7a8be4fc0952f9",
           "size": 13488
         },
         {
-          "file": "wrap_oal.dll",
+          "file": "systemEdelvez/wrap_oal.dll",
           "hash": "7bce7f6198bc90e0ec24e0455f7407069364113f1d2cc339e22932ec0ace7b83",
           "size": 409620
         },
         {
-          "file": "cloak.int",
+          "file": "systemEdelvez/cloak.int",
           "hash": "4165d0593d8dc627e5bf90f10ce700958916fd7157d890abe212a11a39d35f70",
           "size": 454
         },
         {
-          "file": "skillgrp.dat",
+          "file": "systemEdelvez/skillgrp.dat",
           "hash": "be3918b0c52ff37ead1d0e6bb49005c1a0c8deade65269b64132ba6776fac1a5",
           "size": 366640
         },
         {
-          "file": "msxml4a.dll",
+          "file": "systemEdelvez/msxml4a.dll",
           "hash": "51e38d41a2bc89e65896a48e348ad35d4b12348a665197cadc95fc87fa4a9564",
           "size": 44564
         },
         {
-          "file": "core.u",
+          "file": "systemEdelvez/core.u",
           "hash": "e3734cbf4ba702db4ed44570f5d3a711b8cb5292a02c087407dba02b51ee1877",
           "size": 72950
         },
         {
-          "file": "posteffectdata.dat",
+          "file": "systemEdelvez/posteffectdata.dat",
           "hash": "83ca8dc9c3d2702c72262eaedbc9283d493f585208ab2ce7214d223eaedfff8b",
           "size": 304
         },
         {
-          "file": "l2forecf.ffe",
+          "file": "systemEdelvez/l2forecf.ffe",
           "hash": "85d0daa44733bfc97bca3e1b4124c7287b213fd04fc8c321badc9b67e0cac4af",
           "size": 3516
         },
         {
-          "file": "obscene-e.dat",
+          "file": "systemEdelvez/obscene-e.dat",
           "hash": "c32e793ee0ce2758166634c26f34390ad6c24683fd4f3d74264940dfec20aef4",
           "size": 304
         },
         {
-          "file": "msxml4.dll",
+          "file": "systemEdelvez/msxml4.dll",
           "hash": "8f49c37b4e04a13d15481d9cbca1b82fe1a5a13766df394f5866fad0b6cd5ef6",
           "size": 1275412
         },
         {
-          "file": "eula-e.dat",
+          "file": "systemEdelvez/eula-e.dat",
           "hash": "ec3d7152a0fe1e563c31cff1ad842b8e2fe1c1a77a077ca9f9c4b18edfb4866c",
           "size": 13744
         },
         {
-          "file": "d3ddrv.dll",
+          "file": "systemEdelvez/d3ddrv.dll",
           "hash": "3b6ec91f3ac09aeb3f2d6ebeae8987d6713179b6acc9e09ede673daf2512475c",
           "size": 1426964
         },
         {
-          "file": "gameplay.u",
+          "file": "systemEdelvez/gameplay.u",
           "hash": "4b88789ff799bf7c8230bfce05b2475ebf5543f00062fce8cc032b96b4188ba6",
           "size": 207796
         },
         {
-          "file": "exceptionminimapdata.dat",
+          "file": "systemEdelvez/exceptionminimapdata.dat",
           "hash": "1ed30acdf6a2333895589e2fb73edcd70b5f5c7d1e8b2d76d644101f38f1432a",
           "size": 816
         },
         {
-          "file": "etcitemgrp.dat",
+          "file": "systemEdelvez/etcitemgrp.dat",
           "hash": "c6a787d90b100faade3a31f7a08bdab249cdbca4266d818dd495dcd742e8b90d",
           "size": 169648
         },
         {
-          "file": "ipdrv.u",
+          "file": "systemEdelvez/ipdrv.u",
           "hash": "b9563b6e2c1e4a1be5a8ae1184bb04f67c555625753587f2de58653c885ed099",
           "size": 73672
         },
         {
-          "file": "beecrypt.dll",
+          "file": "systemEdelvez/beecrypt.dll",
           "hash": "4d66674cdda755992e0b236636485a8ecee7224243734aac416039c265359729",
           "size": 188436
         },
         {
-          "file": "optiondata_client-e.dat",
+          "file": "systemEdelvez/optiondata_client-e.dat",
           "hash": "6668acd9c8c8230d7db80dbb7a516e35ee29a780b2c8a45b0d38e3c60a0a110f",
           "size": 168624
         },
         {
-          "file": "lineagenpc2.u",
+          "file": "systemEdelvez/lineagenpc2.u",
           "hash": "674485a6ba5cf6b469e340df79321883e8312f54e767b7f679cfdfead5c79848",
           "size": 486941
         },
         {
-          "file": "fire.u",
+          "file": "systemEdelvez/fire.u",
           "hash": "36eed86fda11bc76b6ac5d15ec9c232e92e5f53bc9b21f38ae2fd0ffef9441a4",
           "size": 15482
         },
         {
-          "file": "ttfontinfo.ini",
+          "file": "systemEdelvez/ttfontinfo.ini",
           "hash": "23dc2fda01d6bf08660dc659c3ba125b145e0a34e6fc15318085d7c3b18b2f7f",
           "size": 795
         },
         {
-          "file": "charcreategrp.dat",
+          "file": "systemEdelvez/charcreategrp.dat",
           "hash": "6029ce524e5eae8641ac71947b0ff5e91c388a0e3ef0d3d71be21c8b4f1012b1",
           "size": 560
         },
         {
-          "file": "logongrp.dat",
+          "file": "systemEdelvez/logongrp.dat",
           "hash": "79d26187f40a99d224c567a93435f8fb8df4836f2d0a6401fb6e8a45b62d3a0b",
           "size": 176
         },
         {
-          "file": "L2CompiledShader.bin",
+          "file": "systemEdelvez/L2CompiledShader.bin",
           "hash": "2e691d84077b34cef8ef72fa4a4f6fdc4f3709b68f6993e854e99597b0353437",
           "size": 111190
         },
         {
-          "file": "Lineage2us.ini",
+          "file": "systemEdelvez/Lineage2us.ini",
           "hash": "77b0d4b111704c1f3439c3681ed47f6de51e5cc4fcbeb74d84ac03cc8e97db57",
           "size": 557
         },
         {
-          "file": "largefont.gly",
+          "file": "systemEdelvez/largefont.gly",
           "hash": "f6ea168898793c9923b4af54883ac564d09afc5520e6afdc3bb37bce71dfb819",
           "size": 185632
         },
         {
-          "file": "classinfo-e.dat",
+          "file": "systemEdelvez/classinfo-e.dat",
           "hash": "e58bf46ff0fdfd1e606a9851016f5cc12edfc925248060db271dffbfbde2e66e",
           "size": 2352
         },
         {
-          "file": "variationeffectgrp-e.dat",
+          "file": "systemEdelvez/variationeffectgrp-e.dat",
           "hash": "b3d4468ab81316011f80f6aaed03243f0fa87cad68a4eb076741996e46e9943d",
           "size": 1840
         },
         {
-          "file": "instantzonedata-e.dat",
+          "file": "systemEdelvez/instantzonedata-e.dat",
           "hash": "447d2fca5c90f3141c88595d7330125f7d789ddd5c340fad4f5aecd7c59a9abd",
           "size": 1328
         },
         {
-          "file": "staticobject-e.dat",
+          "file": "systemEdelvez/staticobject-e.dat",
           "hash": "81418a1a809052f59bd21f54313f9e95c6a5790b4408829d5b646c0f1ae0dc90",
           "size": 5680
         },
         {
-          "file": "alaudio.int",
+          "file": "systemEdelvez/alaudio.int",
           "hash": "c916602dcd6f6a46bbcedc7ade0527a168337de40fd7264ecf0282137b0b9a6c",
           "size": 2766
         },
         {
-          "file": "bighead.int",
+          "file": "systemEdelvez/bighead.int",
           "hash": "2e46a1094e5a098a2ddc1a96de6d599a57099f0e01fee562457d189a163423d4",
           "size": 1078
         },
         {
-          "file": "timeenv3.int",
+          "file": "systemEdelvez/timeenv3.int",
           "hash": "76f42733f4e14cab96cb577d97825c857b0a5ed17a5297a7dcbb21901f211b35",
           "size": 26021
         },
         {
-          "file": "largefont-e.gly",
+          "file": "systemEdelvez/largefont-e.gly",
           "hash": "42419af2a4995db6f6abc697799d1051f2c8ef60d45888df6d336d55e526c6bf",
           "size": 181800
         },
         {
-          "file": "alaudio.dll",
+          "file": "systemEdelvez/alaudio.dll",
           "hash": "059820ca892d239d6146101bf2a460340fb9b9c7b3b6d5092f26a820e8d0d8f6",
           "size": 150548
         },
         {
-          "file": "Microsoft.VC80.OpenMP.manifest",
+          "file": "systemEdelvez/Microsoft.VC80.OpenMP.manifest",
           "hash": "c26121c6e5d31113a91cd77ee48c7f077b6f6411e31a0370387233bc41ab8f53",
           "size": 464
         },
         {
-          "file": "lineagesceneinfo.u",
+          "file": "systemEdelvez/lineagesceneinfo.u",
           "hash": "3c65ed4a38d186dfe5e218791ab13e98f58b0f09f2888689444776533bb7c3d6",
           "size": 121253
         },
         {
-          "file": "lineagevehicle.u",
+          "file": "systemEdelvez/lineagevehicle.u",
           "hash": "73c3024db3ebb317e57dfc3f089e4f3fff6891a5798373b14a4886410712ea7a",
           "size": 15487
         },
         {
-          "file": "lineagemonster5.u",
+          "file": "systemEdelvez/lineagemonster5.u",
           "hash": "43d7ad368fde33f453a29bc8de88dc0ea06a4f7c40f1daff414c96ef2e85b538",
           "size": 137581
         },
         {
-          "file": "transformdata.dat",
+          "file": "systemEdelvez/transformdata.dat",
           "hash": "75e17b694855eb7f8a49df349689c8c6437c7f244aa88149e9fb01286f6cef2e",
           "size": 1456
         },
         {
-          "file": "lineagemonster5.int",
+          "file": "systemEdelvez/lineagemonster5.int",
           "hash": "7c052514e3bdb16219fc487b4e893deeb99ec2b84729daf26245106a794d1a87",
           "size": 81781
         },
         {
-          "file": "servername-e.dat",
+          "file": "systemEdelvez/servername-e.dat",
           "hash": "f097f91cc1da180baa254c48b3b36848ed38042fc057cf6a0fc39f22e098f711",
           "size": 1072
         },
         {
-          "file": "mobskillanimgrp.dat",
+          "file": "systemEdelvez/mobskillanimgrp.dat",
           "hash": "d94bcb1043fcf7a558c723481e72a23baac05d70cc8d9a7d1e535eb7d016f834",
           "size": 123056
         },
         {
-          "file": "commandname-e.dat",
+          "file": "systemEdelvez/commandname-e.dat",
           "hash": "8a4e7f11a4d6aae4461779bf55cfaf386d286cdc488ef485b05f5d29333b07a5",
           "size": 1584
         },
         {
-          "file": "lineagemonster.int",
+          "file": "systemEdelvez/lineagemonster.int",
           "hash": "7a5e1c0f539522f81e23a05f538f0b3175f468917421970ce714913f6499d957",
           "size": 611758
         },
         {
-          "file": "timeenv2.int",
+          "file": "systemEdelvez/timeenv2.int",
           "hash": "a7d68b713206c0fd1a71af3fcf06ec2d90b619080d1bf645d6fe66323c137e77",
           "size": 25196
         },
         {
-          "file": "timeenv1.int",
+          "file": "systemEdelvez/timeenv1.int",
           "hash": "4bfad091ae2e938b8b240f8ad0cd6a23600d495a1503ba25ae9e2f20d82145e3",
           "size": 26359
         },
         {
-          "file": "L2.exe",
+          "file": "systemEdelvez/L2.exe",
           "hash": "35e86d5c301b26664e0fa47aa6e833e71541c73024cb17a97f6c9a17ef2b4019",
           "size": 432386
         },
         {
-          "file": "lineageeffect.u",
+          "file": "systemEdelvez/lineageeffect.u",
           "hash": "71a99e0579771ba690ee1195401d13f15d3d39717140d0472887c73e56311e5b",
           "size": 6841237
         },
         {
-          "file": "soulshot.int",
+          "file": "systemEdelvez/soulshot.int",
           "hash": "af12133669de495b2c4ad43f136f52eb75a8800655f08e29b998e7d7fdf07d4d",
           "size": 1900
         },
         {
-          "file": "castlename-e.dat",
+          "file": "systemEdelvez/castlename-e.dat",
           "hash": "3f8eaa175272d8e65570dcd89489fdd8c084dea23db2c49225494e8e3df6b5c5",
           "size": 1968
         },
         {
-          "file": "lineageskilleffect.u",
+          "file": "systemEdelvez/lineageskilleffect.u",
           "hash": "245f4784b8f619abd720a77d36d0d687b23eeeba15f7d4ceec5f1adb65217005",
           "size": 582788
         },
         {
-          "file": "vehiclepartsgrp.dat",
+          "file": "systemEdelvez/vehiclepartsgrp.dat",
           "hash": "a0d8dd73fc7b3324e2fb4516ebdb7435b0dcdfce8bc77b3076b66a793bb14b05",
           "size": 560
         },
         {
-          "file": "predefinedshader.bin",
+          "file": "systemEdelvez/predefinedshader.bin",
           "hash": "84d15f09d17ab52127fb09ac16ea8415eaeb1e0205657d488c53868ded83de3e",
           "size": 68625
         },
         {
-          "file": "npkcusb.sys",
+          "file": "systemEdelvez/npkcusb.sys",
           "hash": "7c4aed917ce3b2ac21e233a37db2b70aa1fe8d7f1508428a5a213258d634e179",
           "size": 15472
         },
         {
-          "file": "lineagemonster4.u",
+          "file": "systemEdelvez/lineagemonster4.u",
           "hash": "fe5fe78729f3b93c85f7e6abc9e67329616d0b2f6832a897a4acda96583ac824",
           "size": 210329
         },
         {
-          "file": "lineagenpc.int",
+          "file": "systemEdelvez/lineagenpc.int",
           "hash": "297b0a114e07df05e282d9579c9709a727416ff87f34885c51af6af8ac7c6fea",
           "size": 125536
         },
         {
-          "file": "chatfilter.ini",
+          "file": "systemEdelvez/chatfilter.ini",
           "hash": "57a5a44581ee9ac002ba22b7d5b788f57292487fdb237159ab516f496d6494ef",
           "size": 1076
         },
         {
-          "file": "Core.dll",
+          "file": "systemEdelvez/Core.dll",
           "hash": "39a53774af7548d87459aa702df0824b4521aba239104f09c4eae96fee78abd3",
           "size": 958424
         },
         {
-          "file": "fmodex.dll",
+          "file": "systemEdelvez/fmodex.dll",
           "hash": "dc5ab263fa9def8006e76fab4eb5d28e6c6d9bbe60e98602f8b53594b0dbfcfe",
           "size": 374804
         },
         {
-          "file": "interface.u",
+          "file": "systemEdelvez/interface.u",
           "hash": "3a3132fc6da57c399caf4918aff214e31c36ce297bf32de5ed7d21519e477d1f",
           "size": 4706060
         },
         {
-          "file": "vcomp.dll",
+          "file": "systemEdelvez/vcomp.dll",
           "hash": "2942acc51829c5fce173a6d5ea89ba8b86773ad6dfe944b8548258a7c9dd05d1",
           "size": 65556
         },
         {
-          "file": "weapongrp.dat",
+          "file": "systemEdelvez/weapongrp.dat",
           "hash": "0d5d6c1917eef2c686fcbd971bcae858b3099bf6794a243cab3507f9c80d27ad",
           "size": 249776
         },
         {
-          "file": "nwindow.dll",
+          "file": "systemEdelvez/nwindow.dll",
           "hash": "891cc62e34dcaa4b71c1eeb68a0573ec8bb2ab68ea74eff0f29672eb1ff33088",
           "size": 14199828
         }
