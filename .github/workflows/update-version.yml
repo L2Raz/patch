@@ -30,7 +30,7 @@ jobs:
           IFS='.' read -r -a version_parts <<< "$current_version"
           version_parts[2]=$((version_parts[2] + 1))
           new_version="${version_parts[0]}.${version_parts[1]}.${version_parts[2]}"
-
+          
           # Create a temporary JSON object to hold file information
           echo '{"version": "'$new_version'", "patch": []}' > version.json
 
@@ -46,7 +46,7 @@ jobs:
               file_with_path="$file"
               hash=$(sha256sum "$file_with_path" | awk '{ print $1 }')
               file_size=$(stat -c%s "$file_with_path")
-              file_path=$(echo "$file_with_path" | sed 's/^patch\///')
+              file_path=$(basename "$file_with_path")
               jq --arg folder "$dir_path" --arg file "$file_path" --arg hash "$hash" --argjson size "$file_size" \
                 '(.patch[] | select(.folder == $folder) | .files) += [{"file": $file, "hash": $hash, "size": $size}]' version.json > temp_version.json
               mv temp_version.json version.json
